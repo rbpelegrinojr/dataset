@@ -6,8 +6,8 @@ students into High / Medium / Low academic-risk categories.
 
 Input file
 ----------
-  dataset.csv  – per-subject task scores, prelim/midterm grades,
-                 minimum required exam score, actual outcomes.
+  new_dataset.csv  – per-subject task scores, prelim/midterm grades,
+                     minimum required exam score, actual outcomes.
 
 Modules
 -------
@@ -43,7 +43,7 @@ warnings.filterwarnings("ignore")
 # ---------------------------------------------------------------------------
 # 0. Paths
 # ---------------------------------------------------------------------------
-DATASET_CSV = "/content/sample_data/dataset.csv"
+DATASET_CSV = "/content/sample_data/new_dataset.csv"
 
 # Risk thresholds (from EDUPREDICT specification)
 THRESH_ATTENDANCE_HIGH   = 60.0   # attendance ≤ this → High Risk flag
@@ -64,7 +64,7 @@ RANDOM_STATE = 42
 # ===========================================================================
 
 def load_subject_data(path: str) -> pd.DataFrame:
-    """Load dataset.csv (task scores, prelim/midterm grades, exam data)."""
+    """Load new_dataset.csv (task scores, prelim/midterm grades, exam data)."""
     df = pd.read_csv(path)
 
     # Numeric class-standing encoding
@@ -483,7 +483,7 @@ def main():
     df = load_subject_data(DATASET_CSV)
     df["risk_label"] = df.apply(assign_risk_label, axis=1)
 
-    print(f"  dataset.csv : {len(df)} rows")
+    print(f"  new_dataset.csv : {len(df)} rows")
     print(f"\n  Risk distribution:")
     print(df["risk_label"].value_counts().to_string())
 
