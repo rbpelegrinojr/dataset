@@ -45,7 +45,11 @@ warnings.filterwarnings("ignore")
 # ---------------------------------------------------------------------------
 # 0. Paths
 # ---------------------------------------------------------------------------
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+try:
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+except NameError:
+    # Running in a Jupyter / Colab notebook – use the current working directory
+    BASE_DIR = os.getcwd()
 STUDENT_CSV = os.path.join(BASE_DIR, "student_performance.csv")
 DATASET_CSV = os.path.join(BASE_DIR, "dataset.csv")
 
