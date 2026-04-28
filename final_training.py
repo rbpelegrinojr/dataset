@@ -7,7 +7,7 @@ students into High / Medium / Low academic-risk categories.
 Input file
 ----------
   final_dataset.csv – 856-record dataset with realistic label noise,
-                      targeting ~86 % model accuracy.
+                      targeting ~86% model accuracy.
 
 Modules
 -------
@@ -64,7 +64,7 @@ RANDOM_STATE = 42
 # ===========================================================================
 
 def load_subject_data(path: str) -> pd.DataFrame:
-    """Load new_dataset.csv (task scores, prelim/midterm grades, exam data)."""
+    """Load final_dataset.csv (task scores, prelim/midterm grades, exam data)."""
     df = pd.read_csv(path)
 
     # Numeric class-standing encoding
