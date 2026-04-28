@@ -1,0 +1,1225 @@
+class_standing,task_score_1,task_score_2,task_score_3,task_score_4,task_score_5,prelim_grade,midterm_grade,min_exam_score_required,predicted_category,actual_exam_score,actual_outcome,prediction_correct,error_type
+2nd Year,77.2,87.4,83.0,64.5,76.5,74.8,75.3,58.8,Achievable target,66.6,Pass,True,None
+4th Year,80.3,75.7,79.8,98.8,84.7,79.5,87.1,58.5,Achievable target,99.1,Pass,True,None
+1st Year,93.3,91.8,82.3,87.6,98.1,74.4,80.1,70.3,Achievable target,91.5,Pass,True,None
+1st Year,77.7,61.9,85.4,80.9,86.5,87.9,80.6,65.8,Achievable target,69.3,Pass,True,None
+4th Year,65.4,67.6,92.6,87.8,67.5,86.1,71.8,50.6,Achievable target,74.4,Pass,True,None
+4th Year,61.2,82.2,71.2,66.1,95.9,87.8,86.3,65.8,Achievable target,68.8,Pass,True,None
+2nd Year,75.4,73.6,92.6,83.6,91.4,81.0,89.5,60.4,Achievable target,91.6,Pass,True,None
+4th Year,74.1,86.4,69.9,85.9,83.7,76.9,77.1,71.8,Achievable target,73.6,Pass,True,None
+3rd Year,85.3,68.0,85.0,71.6,73.8,84.2,88.7,66.1,Achievable target,99.4,Pass,True,None
+3rd Year,72.0,92.8,67.0,98.1,94.2,77.9,71.0,63.3,Achievable target,83.5,Pass,True,None
+2nd Year,66.8,74.7,86.0,61.5,95.1,84.7,81.8,56.1,Achievable target,79.6,Pass,True,None
+3rd Year,84.1,75.5,93.6,92.5,99.4,89.4,77.5,53.0,Achievable target,70.4,Pass,True,None
+3rd Year,68.1,85.4,70.6,79.5,96.2,82.1,84.4,70.3,Achievable target,73.0,Pass,True,None
+3rd Year,90.0,66.6,96.3,92.5,60.8,89.9,79.8,55.4,Achievable target,99.3,Pass,True,None
+3rd Year,69.9,73.5,67.7,68.3,61.1,69.5,74.0,77.0,Borderline,64.0,Fail,True,None
+2nd Year,66.5,68.6,76.0,73.5,82.0,78.9,84.0,66.7,Achievable target,90.2,Pass,True,None
+1st Year,87.1,65.3,89.0,78.4,88.5,86.4,88.8,62.5,Achievable target,62.7,Pass,True,None
+1st Year,62.5,60.3,70.4,62.4,63.9,65.1,60.9,98.7,Cannot pass,98.8,Pass,False,Underperformance
+3rd Year,75.2,75.4,88.5,69.0,86.0,71.4,67.3,78.5,Borderline,84.4,Pass,True,None
+3rd Year,80.1,64.6,86.5,67.2,67.3,75.1,71.6,59.4,Achievable target,62.8,Pass,True,None
+1st Year,66.1,72.1,71.2,85.2,78.7,75.2,65.4,75.4,Borderline,50.7,Fail,True,None
+2nd Year,79.0,91.3,64.1,89.2,84.4,83.3,78.6,54.5,Achievable target,53.8,Fail,False,Overperformance
+4th Year,73.2,71.5,78.5,75.5,70.5,64.5,65.7,91.4,Cannot pass,63.4,Fail,True,None
+3rd Year,72.6,74.8,68.7,75.2,74.0,71.4,70.9,97.4,Cannot pass,84.2,Fail,True,None
+1st Year,60.4,76.5,75.3,72.9,60.9,67.2,64.5,92.6,Cannot pass,53.6,Fail,True,None
+3rd Year,67.9,67.0,95.4,88.8,73.6,70.9,70.6,63.3,Achievable target,69.9,Pass,True,None
+4th Year,86.9,99.4,63.9,76.1,73.6,79.3,84.6,70.7,Achievable target,78.0,Pass,True,None
+1st Year,81.9,95.0,66.7,77.9,64.6,76.0,83.5,65.9,Achievable target,53.8,Fail,False,Overperformance
+3rd Year,89.7,84.2,96.4,89.6,86.4,75.5,75.1,58.9,Achievable target,66.1,Pass,True,None
+3rd Year,77.2,72.5,75.6,90.6,82.8,87.7,73.3,61.8,Achievable target,83.0,Pass,True,None
+1st Year,63.5,78.7,61.8,80.8,86.4,83.7,81.9,57.5,Achievable target,82.0,Pass,True,None
+4th Year,95.9,72.3,91.6,69.1,74.9,79.2,81.3,56.9,Achievable target,93.3,Pass,True,None
+2nd Year,86.6,73.2,72.6,93.9,88.8,77.3,71.4,57.2,Achievable target,70.4,Pass,True,None
+4th Year,86.5,79.6,70.5,73.7,94.4,85.9,74.0,63.1,Achievable target,98.3,Pass,True,None
+4th Year,91.7,60.8,75.3,94.2,90.4,85.2,86.4,72.1,Achievable target,88.7,Pass,True,None
+1st Year,85.5,75.8,83.7,62.5,86.5,81.6,80.1,53.1,Achievable target,66.8,Pass,True,None
+2nd Year,84.2,64.3,79.8,82.3,81.5,66.6,71.7,79.0,Borderline,67.8,Fail,True,None
+2nd Year,61.5,99.6,97.2,77.1,84.7,74.6,72.6,52.2,Achievable target,50.1,Fail,False,Overperformance
+1st Year,74.4,94.4,94.6,69.4,88.1,84.1,86.4,59.5,Achievable target,72.4,Pass,True,None
+3rd Year,60.7,60.2,89.3,69.1,95.1,85.1,80.6,57.5,Achievable target,61.9,Pass,True,None
+1st Year,66.0,66.1,76.4,62.5,70.0,64.4,64.4,100.0,Cannot pass,70.7,Fail,True,None
+3rd Year,90.8,93.4,95.3,61.5,73.5,86.9,72.0,68.4,Achievable target,72.5,Pass,True,None
+4th Year,93.6,71.1,91.1,79.4,69.6,79.0,85.0,60.6,Achievable target,88.7,Pass,True,None
+4th Year,60.9,89.1,86.5,97.6,88.0,78.3,73.7,51.9,Achievable target,59.9,Pass,True,None
+2nd Year,66.2,98.3,73.5,63.7,63.9,84.0,76.8,70.3,Achievable target,88.2,Pass,True,None
+3rd Year,82.0,85.8,61.7,88.9,91.3,85.8,75.6,51.3,Achievable target,95.0,Pass,True,None
+4th Year,63.5,78.2,67.0,66.6,71.8,71.8,70.5,99.5,Cannot pass,63.6,Fail,True,None
+1st Year,78.6,76.3,81.4,98.6,68.3,73.1,73.3,57.4,Achievable target,68.7,Pass,True,None
+3rd Year,66.1,76.5,87.5,94.4,63.5,84.4,82.6,52.4,Achievable target,88.2,Pass,True,None
+1st Year,88.4,69.8,67.5,77.1,74.2,72.8,74.5,76.3,Borderline,59.7,Fail,True,None
+4th Year,78.9,93.9,89.1,88.2,80.7,80.0,82.2,63.5,Achievable target,99.9,Pass,True,None
+2nd Year,68.3,62.1,64.5,66.0,93.8,79.3,82.5,71.9,Achievable target,85.9,Pass,True,None
+4th Year,76.8,96.2,83.4,87.8,94.3,78.3,74.1,68.4,Achievable target,80.4,Pass,True,None
+1st Year,79.0,79.1,97.9,96.9,69.3,71.1,79.3,66.4,Achievable target,79.5,Pass,True,None
+4th Year,77.6,85.5,68.4,89.4,73.8,85.4,74.8,65.4,Achievable target,91.5,Pass,True,None
+2nd Year,70.6,84.9,75.9,63.2,73.1,71.5,85.6,66.2,Achievable target,84.2,Pass,True,None
+2nd Year,85.7,72.9,62.2,62.8,98.1,74.2,71.0,59.2,Achievable target,75.5,Pass,True,None
+3rd Year,82.1,83.5,90.7,65.2,80.1,72.6,86.6,70.8,Achievable target,95.1,Pass,True,None
+3rd Year,78.2,84.1,65.8,86.6,92.1,86.7,80.0,66.9,Achievable target,60.1,Fail,False,Overperformance
+4th Year,62.9,77.4,72.5,72.5,65.7,73.5,73.9,75.4,Borderline,80.9,Pass,True,None
+1st Year,79.2,68.2,61.6,71.2,61.5,68.3,65.3,93.7,Cannot pass,71.1,Fail,True,None
+2nd Year,86.2,99.0,63.5,71.0,76.0,83.5,77.2,66.1,Achievable target,79.8,Pass,True,None
+4th Year,94.9,87.5,76.7,82.9,77.1,80.4,83.6,57.5,Achievable target,83.2,Pass,True,None
+4th Year,72.6,88.2,87.1,90.7,83.1,70.9,75.2,63.6,Achievable target,99.2,Pass,True,None
+3rd Year,96.3,78.3,72.7,88.6,91.2,78.2,81.4,61.7,Achievable target,85.9,Pass,True,None
+2nd Year,94.5,73.7,63.4,65.8,97.4,79.7,86.0,53.7,Achievable target,76.7,Pass,True,None
+3rd Year,89.1,99.5,64.4,62.4,74.9,74.8,85.5,65.0,Achievable target,77.4,Pass,True,None
+4th Year,65.9,76.3,66.4,74.6,77.1,66.5,66.1,83.1,Borderline,97.7,Pass,True,None
+2nd Year,60.8,91.2,90.7,60.4,96.5,75.4,78.2,65.5,Achievable target,86.2,Pass,True,None
+4th Year,82.7,67.3,72.7,92.4,84.5,87.0,85.4,65.4,Achievable target,69.0,Pass,True,None
+4th Year,73.7,64.8,79.9,72.1,79.2,60.5,68.6,95.7,Cannot pass,95.3,Fail,True,None
+1st Year,68.9,89.5,87.1,95.7,63.5,70.5,75.5,60.1,Achievable target,61.3,Pass,True,None
+4th Year,67.6,73.5,90.3,61.9,85.3,74.3,86.5,66.1,Achievable target,70.3,Pass,True,None
+2nd Year,97.1,76.9,84.5,76.2,96.3,87.4,82.8,51.9,Achievable target,68.4,Pass,True,None
+3rd Year,85.7,69.5,89.0,99.5,77.7,74.0,77.5,71.1,Achievable target,75.0,Pass,True,None
+1st Year,61.1,82.2,67.5,62.5,62.8,72.7,69.6,85.2,Borderline,72.2,Fail,True,None
+4th Year,78.1,74.1,75.3,60.7,79.6,60.9,71.4,99.5,Cannot pass,79.5,Fail,True,None
+4th Year,85.3,96.5,60.7,82.2,83.4,71.3,70.6,52.4,Achievable target,88.7,Pass,True,None
+3rd Year,71.9,71.6,89.1,83.9,73.5,73.3,86.5,71.3,Achievable target,99.9,Pass,True,None
+2nd Year,65.8,60.6,78.7,65.0,73.6,65.2,71.0,93.9,Cannot pass,67.5,Fail,True,None
+4th Year,69.8,81.9,84.8,82.3,93.0,71.6,82.0,51.2,Achievable target,58.4,Pass,True,None
+3rd Year,84.3,88.3,67.3,99.4,91.9,84.2,75.0,62.1,Achievable target,53.3,Fail,False,Overperformance
+2nd Year,87.4,94.8,98.9,66.6,90.0,84.8,77.9,59.2,Achievable target,57.1,Fail,False,Overperformance
+4th Year,62.8,69.2,62.5,77.2,75.1,63.2,62.0,98.9,Cannot pass,97.1,Fail,True,None
+4th Year,89.3,81.9,91.8,66.0,97.3,90.0,85.5,50.6,Achievable target,77.4,Pass,True,None
+4th Year,85.7,99.5,72.9,98.8,72.6,83.6,87.6,60.6,Achievable target,79.1,Pass,True,None
+2nd Year,75.4,67.6,87.8,95.9,85.2,73.5,70.8,58.6,Achievable target,62.1,Pass,True,None
+2nd Year,98.8,78.1,65.3,76.5,88.0,75.5,89.3,68.0,Achievable target,77.6,Pass,True,None
+3rd Year,90.7,84.0,85.8,75.1,88.7,87.4,88.6,67.7,Achievable target,56.7,Fail,False,Overperformance
+4th Year,89.7,78.7,97.5,81.3,84.6,74.3,89.2,68.5,Achievable target,82.2,Pass,True,None
+4th Year,65.6,75.0,61.4,72.0,65.4,68.6,74.0,79.0,Borderline,79.1,Pass,True,None
+2nd Year,75.8,60.2,75.8,70.8,76.4,71.3,67.2,98.5,Cannot pass,54.1,Fail,True,None
+4th Year,94.5,79.2,98.0,74.4,75.1,89.4,74.0,61.3,Achievable target,77.7,Pass,True,None
+1st Year,67.7,86.8,68.8,95.3,91.9,89.8,76.7,69.9,Achievable target,75.0,Pass,True,None
+1st Year,69.2,96.1,87.7,82.7,70.8,87.9,88.4,72.2,Achievable target,91.2,Pass,True,None
+1st Year,78.3,97.1,60.9,69.9,81.2,73.7,80.0,58.0,Achievable target,74.5,Pass,True,None
+4th Year,64.6,63.5,63.6,89.6,97.5,86.2,74.5,67.9,Achievable target,52.1,Fail,False,Overperformance
+2nd Year,65.7,74.0,98.7,87.9,75.7,76.7,81.7,64.3,Achievable target,97.8,Pass,True,None
+4th Year,94.3,65.8,78.5,62.3,76.5,74.8,74.5,60.0,Achievable target,81.2,Pass,True,None
+1st Year,65.6,60.5,93.2,99.3,65.2,79.2,86.1,69.8,Achievable target,81.0,Pass,True,None
+3rd Year,60.5,97.1,78.0,87.1,98.5,72.9,87.4,66.4,Achievable target,67.8,Pass,True,None
+1st Year,66.4,82.5,94.1,61.4,99.2,72.6,74.1,62.1,Achievable target,54.4,Fail,False,Overperformance
+2nd Year,80.5,68.1,92.3,81.5,75.6,75.5,76.2,65.2,Achievable target,94.2,Pass,True,None
+2nd Year,81.6,65.5,69.3,87.8,88.3,75.4,76.4,51.5,Achievable target,71.3,Pass,True,None
+2nd Year,92.2,62.9,94.5,61.7,60.7,80.0,86.7,72.1,Achievable target,96.2,Pass,True,None
+2nd Year,61.6,71.2,70.6,66.4,93.8,84.7,72.4,50.1,Achievable target,73.4,Pass,True,None
+3rd Year,67.0,87.6,64.0,78.2,85.5,72.2,71.4,76.4,Borderline,81.6,Pass,True,None
+1st Year,97.3,64.1,95.1,70.6,95.6,83.4,81.1,67.8,Achievable target,72.8,Pass,True,None
+2nd Year,75.2,65.6,72.0,79.7,62.5,81.4,73.4,60.4,Achievable target,77.1,Pass,True,None
+4th Year,66.0,89.1,63.6,85.0,84.9,85.2,83.3,59.3,Achievable target,95.9,Pass,True,None
+3rd Year,69.9,83.3,85.9,63.4,78.8,74.7,79.0,70.9,Achievable target,99.3,Pass,True,None
+4th Year,65.4,79.7,62.1,71.9,76.4,70.1,61.0,95.7,Cannot pass,81.5,Fail,True,None
+3rd Year,60.5,72.2,76.2,70.2,75.6,71.2,70.9,95.1,Cannot pass,76.2,Fail,True,None
+2nd Year,84.5,87.8,70.9,85.9,81.3,80.3,86.0,56.5,Achievable target,64.7,Pass,True,None
+4th Year,85.9,74.6,94.1,73.6,93.6,71.1,89.9,68.3,Achievable target,77.5,Pass,True,None
+2nd Year,97.1,99.4,94.7,79.6,73.0,85.2,71.3,61.0,Achievable target,70.6,Pass,True,None
+4th Year,70.4,64.8,69.6,69.8,65.6,67.6,68.0,97.7,Cannot pass,73.0,Fail,True,None
+1st Year,60.9,64.1,63.7,68.6,61.0,70.4,64.6,93.1,Cannot pass,73.3,Fail,True,None
+2nd Year,92.6,72.9,85.1,85.0,97.4,70.9,80.3,59.5,Achievable target,76.8,Pass,True,None
+2nd Year,64.2,81.5,88.1,99.0,91.0,87.3,78.5,65.5,Achievable target,97.9,Pass,True,None
+3rd Year,61.6,79.9,68.3,97.3,73.2,84.1,75.9,50.1,Achievable target,83.6,Pass,True,None
+3rd Year,62.0,97.0,77.3,89.0,79.8,72.5,88.8,59.2,Achievable target,76.6,Pass,True,None
+1st Year,78.7,68.5,79.2,90.7,92.6,82.8,83.9,69.4,Achievable target,80.9,Pass,True,None
+4th Year,61.2,73.4,87.2,76.2,66.6,74.4,78.7,61.2,Achievable target,66.2,Pass,True,None
+2nd Year,79.2,73.3,68.6,60.4,79.5,64.0,65.5,98.8,Cannot pass,58.3,Fail,True,None
+3rd Year,72.6,74.3,69.7,81.6,69.0,70.1,71.8,76.0,Borderline,93.0,Pass,True,None
+2nd Year,75.1,63.1,64.6,74.5,67.4,67.0,69.7,99.0,Cannot pass,54.6,Fail,True,None
+3rd Year,75.9,72.3,99.5,92.7,60.1,85.0,88.6,51.7,Achievable target,51.1,Fail,False,Overperformance
+1st Year,79.4,85.8,77.3,82.9,64.0,85.9,73.6,51.5,Achievable target,51.3,Fail,False,Overperformance
+2nd Year,66.9,72.2,68.7,69.1,79.4,60.5,66.2,97.9,Cannot pass,63.8,Fail,True,None
+1st Year,73.9,60.2,69.4,64.7,81.2,82.5,85.7,52.3,Achievable target,69.6,Pass,True,None
+1st Year,62.0,63.3,77.7,77.0,84.3,73.1,85.1,59.9,Achievable target,68.5,Pass,True,None
+3rd Year,70.9,93.9,83.0,85.2,68.6,80.0,83.8,57.0,Achievable target,56.7,Fail,False,Overperformance
+1st Year,64.8,87.2,81.2,76.5,94.8,79.4,73.9,53.6,Achievable target,99.6,Pass,True,None
+2nd Year,94.2,64.0,87.4,81.8,99.1,78.9,89.0,58.6,Achievable target,75.1,Pass,True,None
+2nd Year,94.6,62.2,97.4,72.2,86.2,76.5,85.8,63.9,Achievable target,56.1,Fail,False,Overperformance
+4th Year,82.3,61.6,73.1,64.6,71.3,85.2,84.1,64.4,Achievable target,75.5,Pass,True,None
+1st Year,86.5,63.4,77.1,94.7,67.3,88.1,81.8,56.2,Achievable target,70.5,Pass,True,None
+2nd Year,70.6,75.8,61.7,60.5,79.2,68.9,65.2,91.1,Cannot pass,51.4,Fail,True,None
+1st Year,89.6,76.8,72.9,76.7,88.8,81.1,88.3,56.5,Achievable target,59.9,Pass,True,None
+3rd Year,63.0,69.9,62.0,76.6,76.0,73.6,70.2,85.4,Borderline,98.1,Pass,True,None
+2nd Year,63.7,76.0,96.7,89.4,88.9,74.7,86.2,69.0,Achievable target,74.4,Pass,True,None
+2nd Year,62.5,85.0,61.1,77.3,61.0,73.9,76.6,69.1,Achievable target,98.0,Pass,True,None
+4th Year,74.5,62.9,61.2,64.6,71.6,73.7,89.8,54.7,Achievable target,81.2,Pass,True,None
+2nd Year,87.1,87.0,75.9,93.8,82.3,85.1,74.5,52.2,Achievable target,71.1,Pass,True,None
+2nd Year,74.9,84.7,86.7,84.7,79.3,70.2,80.1,61.7,Achievable target,62.0,Pass,True,None
+2nd Year,63.2,69.6,82.1,66.3,76.3,82.5,75.3,66.5,Achievable target,82.2,Pass,True,None
+1st Year,89.7,66.7,86.9,60.4,70.9,73.5,72.5,60.6,Achievable target,67.6,Pass,True,None
+4th Year,91.6,75.2,83.6,89.7,90.5,74.6,86.0,66.7,Achievable target,70.0,Pass,True,None
+2nd Year,96.4,92.7,95.4,97.2,76.6,86.6,71.8,59.5,Achievable target,74.6,Pass,True,None
+2nd Year,64.2,76.6,98.5,64.6,97.6,76.9,70.5,53.4,Achievable target,67.9,Pass,True,None
+3rd Year,89.1,96.1,96.3,76.5,90.5,83.3,71.3,52.9,Achievable target,70.3,Pass,True,None
+1st Year,67.3,83.9,65.5,88.1,85.7,70.8,71.8,78.2,Borderline,70.2,Fail,True,None
+4th Year,65.0,60.7,75.0,68.8,67.5,71.1,60.7,96.3,Cannot pass,51.4,Fail,True,None
+1st Year,64.6,69.1,82.5,79.5,99.7,86.1,76.8,68.8,Achievable target,92.8,Pass,True,None
+2nd Year,68.2,70.9,61.4,63.7,74.6,70.7,64.3,99.1,Cannot pass,81.5,Fail,True,None
+1st Year,66.2,73.6,79.3,95.0,72.4,86.0,88.1,57.9,Achievable target,90.3,Pass,True,None
+4th Year,82.2,83.9,91.4,94.5,60.5,72.1,71.8,59.9,Achievable target,91.1,Pass,True,None
+2nd Year,76.7,74.2,76.8,71.2,69.8,71.5,71.3,97.9,Cannot pass,99.3,Pass,False,Underperformance
+4th Year,71.8,63.3,64.1,74.4,68.7,61.2,69.5,94.5,Cannot pass,76.5,Fail,True,None
+1st Year,78.5,82.2,91.7,95.8,78.0,82.3,80.1,69.4,Achievable target,89.3,Pass,True,None
+2nd Year,78.8,66.2,71.2,62.4,69.3,67.6,70.1,98.4,Cannot pass,98.5,Pass,False,Underperformance
+4th Year,62.8,64.3,92.6,90.9,75.2,73.5,89.1,61.9,Achievable target,87.1,Pass,True,None
+4th Year,66.5,80.2,79.4,78.3,98.7,84.6,78.3,62.3,Achievable target,82.2,Pass,True,None
+3rd Year,85.7,76.1,69.4,78.4,92.1,71.0,74.5,60.8,Achievable target,94.4,Pass,True,None
+3rd Year,95.6,89.4,85.8,94.6,88.3,80.8,89.2,63.7,Achievable target,92.6,Pass,True,None
+1st Year,92.4,87.9,63.9,79.8,63.3,78.5,77.9,68.1,Achievable target,90.2,Pass,True,None
+3rd Year,68.0,71.5,81.3,90.9,86.8,82.8,74.2,56.5,Achievable target,63.4,Pass,True,None
+2nd Year,83.3,66.0,82.3,75.8,83.4,66.8,73.8,82.9,Borderline,67.4,Fail,True,None
+4th Year,68.1,72.5,61.8,94.6,89.7,85.2,76.4,50.4,Achievable target,77.8,Pass,True,None
+2nd Year,69.2,64.4,69.1,69.5,76.5,84.9,88.0,54.8,Achievable target,95.1,Pass,True,None
+2nd Year,73.8,62.6,99.8,97.4,62.8,81.6,70.9,72.4,Achievable target,73.3,Pass,True,None
+3rd Year,96.9,83.9,62.8,75.1,65.3,73.4,83.7,50.4,Achievable target,76.3,Pass,True,None
+1st Year,77.7,85.6,60.1,68.0,72.2,82.8,73.7,63.8,Achievable target,67.8,Pass,True,None
+3rd Year,81.4,60.4,78.2,96.2,83.0,82.3,88.1,58.0,Achievable target,72.8,Pass,True,None
+1st Year,71.6,63.2,69.3,64.0,71.1,70.9,74.6,65.3,Achievable target,78.0,Pass,True,None
+2nd Year,66.8,74.3,75.7,65.6,75.3,64.2,68.6,93.1,Cannot pass,66.9,Fail,True,None
+2nd Year,66.5,99.6,89.6,72.0,73.5,76.6,82.3,69.9,Achievable target,85.9,Pass,True,None
+1st Year,61.3,72.7,77.7,66.9,60.3,67.5,67.1,92.0,Cannot pass,94.3,Pass,False,Underperformance
+3rd Year,74.7,78.8,60.7,60.4,78.8,64.0,62.6,91.1,Cannot pass,66.3,Fail,True,None
+3rd Year,78.2,79.5,83.3,94.8,93.9,83.9,87.5,52.2,Achievable target,98.7,Pass,True,None
+3rd Year,65.1,87.7,62.4,65.5,94.1,89.5,74.0,61.0,Achievable target,67.7,Pass,True,None
+3rd Year,72.0,77.1,67.3,92.5,64.3,74.5,77.9,60.5,Achievable target,58.7,Fail,False,Overperformance
+3rd Year,77.5,70.0,88.6,85.8,93.1,73.8,87.6,55.3,Achievable target,58.8,Pass,True,None
+2nd Year,60.0,61.6,79.4,62.7,76.1,61.7,65.7,94.3,Cannot pass,97.0,Pass,False,Underperformance
+1st Year,66.8,75.1,63.3,67.0,68.4,61.1,70.8,94.8,Cannot pass,80.8,Fail,True,None
+1st Year,78.9,69.9,68.8,72.4,60.9,67.8,67.3,81.4,Borderline,98.0,Pass,False,Ambiguity
+3rd Year,78.2,76.2,60.2,67.0,80.2,74.5,89.3,63.4,Achievable target,81.8,Pass,True,None
+4th Year,67.1,96.1,84.0,95.1,81.3,86.5,82.1,68.1,Achievable target,71.1,Pass,True,None
+4th Year,77.5,73.4,67.0,69.4,70.7,70.2,62.7,98.2,Cannot pass,55.2,Fail,True,None
+2nd Year,71.4,76.5,62.5,70.8,75.5,65.4,65.0,94.1,Cannot pass,75.7,Fail,True,None
+3rd Year,74.2,71.0,63.4,60.9,64.8,63.6,62.6,90.5,Cannot pass,56.0,Fail,True,None
+1st Year,81.9,82.0,67.5,78.0,82.8,73.0,71.9,77.5,Borderline,81.6,Pass,False,Ambiguity
+1st Year,77.8,63.7,62.2,85.7,83.3,78.0,86.8,55.3,Achievable target,97.1,Pass,True,None
+2nd Year,62.2,84.4,77.3,64.1,62.2,71.2,86.0,51.3,Achievable target,92.7,Pass,True,None
+2nd Year,74.6,70.4,72.1,60.0,92.6,86.1,78.8,70.4,Achievable target,80.6,Pass,True,None
+2nd Year,63.5,71.4,78.9,63.6,65.6,65.5,69.8,93.2,Cannot pass,88.2,Fail,True,None
+2nd Year,95.0,85.7,87.1,62.7,82.5,77.7,86.3,64.6,Achievable target,70.4,Pass,True,None
+3rd Year,68.6,72.1,64.5,91.4,91.1,79.0,89.0,71.9,Achievable target,84.4,Pass,True,None
+2nd Year,65.9,69.9,85.2,71.2,65.1,87.1,75.9,62.2,Achievable target,84.3,Pass,True,None
+3rd Year,68.7,78.9,78.4,65.0,64.0,65.6,69.7,98.5,Cannot pass,84.7,Fail,True,None
+2nd Year,64.7,69.2,92.4,88.8,79.3,77.2,84.3,61.5,Achievable target,69.6,Pass,True,None
+2nd Year,79.3,71.7,74.1,88.5,68.2,78.0,66.1,84.1,Borderline,89.2,Pass,True,None
+4th Year,73.3,65.2,99.2,66.5,77.7,86.6,70.9,66.9,Achievable target,85.5,Pass,True,None
+3rd Year,74.6,68.5,67.9,61.4,69.8,70.8,69.8,97.4,Cannot pass,98.9,Pass,False,Underperformance
+2nd Year,79.0,97.6,74.3,72.0,66.8,83.7,82.8,65.8,Achievable target,84.9,Pass,True,None
+3rd Year,77.7,65.3,62.7,78.0,65.9,63.9,71.4,99.9,Cannot pass,81.2,Fail,True,None
+3rd Year,89.4,62.4,72.5,62.0,79.1,74.4,71.2,72.1,Achievable target,86.9,Pass,True,None
+4th Year,63.7,61.7,66.4,72.5,60.4,61.1,71.0,91.8,Cannot pass,91.9,Pass,False,Underperformance
+1st Year,64.2,75.5,71.0,62.3,77.1,68.0,70.2,99.5,Cannot pass,67.3,Fail,True,None
+3rd Year,79.5,77.9,67.5,78.8,65.9,67.3,64.3,90.4,Cannot pass,64.8,Fail,True,None
+3rd Year,61.3,79.5,66.2,63.8,73.9,65.0,61.8,95.4,Cannot pass,96.9,Pass,False,Underperformance
+3rd Year,65.7,71.9,61.1,66.1,68.6,60.2,60.5,96.6,Cannot pass,50.0,Fail,True,None
+3rd Year,74.9,87.9,61.3,63.2,90.0,85.7,80.0,53.5,Achievable target,65.9,Pass,True,None
+4th Year,73.8,68.7,65.7,72.4,78.5,64.6,70.1,98.6,Cannot pass,98.3,Fail,True,None
+3rd Year,83.1,86.1,81.0,82.2,88.7,74.0,66.8,80.1,Borderline,95.5,Pass,True,None
+4th Year,77.5,80.7,64.8,69.0,73.5,89.9,83.0,64.1,Achievable target,72.4,Pass,True,None
+2nd Year,78.3,96.7,88.2,71.0,92.9,86.7,75.0,62.1,Achievable target,86.2,Pass,True,None
+4th Year,77.2,70.1,79.7,73.4,64.5,75.6,82.1,66.1,Achievable target,60.9,Fail,False,Overperformance
+3rd Year,79.0,60.4,67.6,75.6,66.7,61.6,66.5,93.6,Cannot pass,83.3,Fail,True,None
+4th Year,86.4,97.6,99.1,99.9,95.3,74.8,86.2,71.1,Achievable target,73.0,Pass,True,None
+1st Year,72.1,80.7,80.4,89.9,71.8,87.0,83.2,51.3,Achievable target,95.0,Pass,True,None
+3rd Year,86.7,93.5,71.9,96.8,62.0,70.7,87.1,60.0,Achievable target,67.1,Pass,True,None
+1st Year,84.6,89.1,96.4,86.4,72.1,79.0,74.4,65.4,Achievable target,66.5,Pass,True,None
+3rd Year,74.4,86.6,66.1,90.1,76.9,77.4,85.1,55.5,Achievable target,91.2,Pass,True,None
+2nd Year,92.8,90.5,81.2,88.6,98.6,80.1,71.4,54.1,Achievable target,88.7,Pass,True,None
+3rd Year,79.3,74.7,83.2,98.5,63.2,70.7,70.8,67.5,Achievable target,84.6,Pass,True,None
+3rd Year,75.8,72.8,65.0,76.5,70.7,71.1,63.2,90.1,Cannot pass,63.9,Fail,True,None
+1st Year,61.1,67.2,84.2,73.1,72.1,86.6,80.0,65.0,Achievable target,91.6,Pass,True,None
+3rd Year,89.8,64.7,65.1,87.8,87.5,73.4,76.1,57.4,Achievable target,66.3,Pass,True,None
+2nd Year,79.5,90.3,87.6,85.8,79.6,71.7,84.4,69.0,Achievable target,71.9,Pass,True,None
+3rd Year,85.9,60.1,79.1,96.1,86.9,70.3,83.8,59.9,Achievable target,95.8,Pass,True,None
+4th Year,75.6,81.4,67.5,64.3,82.8,89.6,74.1,60.8,Achievable target,95.9,Pass,True,None
+4th Year,73.4,95.2,92.3,99.6,69.0,76.3,77.8,66.5,Achievable target,98.6,Pass,True,None
+2nd Year,85.1,67.1,71.9,60.4,74.4,65.2,73.3,87.0,Borderline,89.4,Pass,True,None
+1st Year,65.4,71.8,66.0,79.3,61.2,60.3,70.0,98.6,Cannot pass,68.6,Fail,True,None
+3rd Year,98.8,67.1,98.5,70.6,64.3,88.8,72.3,60.4,Achievable target,89.3,Pass,True,None
+3rd Year,70.7,85.8,70.8,77.8,94.5,76.3,75.8,58.7,Achievable target,82.9,Pass,True,None
+4th Year,91.7,75.6,92.9,94.0,76.6,76.9,86.9,54.3,Achievable target,82.5,Pass,True,None
+4th Year,74.2,73.2,64.0,78.3,87.9,77.6,71.1,67.4,Achievable target,65.4,Fail,False,Overperformance
+2nd Year,61.3,60.8,70.4,64.2,73.7,79.0,86.0,71.3,Achievable target,75.9,Pass,True,None
+2nd Year,64.3,94.9,94.3,68.9,92.7,75.3,85.7,61.0,Achievable target,72.9,Pass,True,None
+4th Year,69.3,84.0,86.4,60.4,75.4,71.9,85.0,69.1,Achievable target,96.3,Pass,True,None
+2nd Year,97.5,96.5,67.0,95.3,67.0,80.7,84.5,72.1,Achievable target,99.9,Pass,True,None
+3rd Year,81.7,79.8,97.5,94.0,78.7,75.7,89.8,54.6,Achievable target,59.7,Pass,True,None
+3rd Year,66.9,69.5,72.7,89.5,74.4,88.7,89.8,64.2,Achievable target,89.4,Pass,True,None
+1st Year,63.7,70.1,68.8,66.3,71.1,62.8,67.9,92.4,Cannot pass,90.3,Fail,True,None
+4th Year,97.8,88.8,79.8,84.7,78.3,85.7,77.2,53.3,Achievable target,53.6,Pass,True,None
+2nd Year,80.0,64.8,86.6,83.2,91.0,74.7,81.4,62.6,Achievable target,81.2,Pass,True,None
+1st Year,77.1,73.9,63.1,92.9,80.2,81.3,80.6,57.2,Achievable target,85.6,Pass,True,None
+1st Year,98.2,92.7,79.3,82.7,97.4,80.8,70.1,58.6,Achievable target,86.8,Pass,True,None
+1st Year,63.7,83.8,84.5,79.3,61.2,80.9,88.0,72.6,Achievable target,77.1,Pass,True,None
+4th Year,68.6,66.7,68.8,67.4,61.0,62.5,64.8,93.9,Cannot pass,90.6,Fail,True,None
+4th Year,90.5,98.2,90.8,60.7,62.7,77.3,83.7,56.3,Achievable target,58.0,Pass,True,None
+1st Year,85.9,73.1,95.8,98.2,70.7,70.2,72.8,67.6,Achievable target,79.7,Pass,True,None
+4th Year,68.8,78.7,71.7,60.3,69.7,76.6,70.2,77.1,Borderline,96.7,Pass,True,None
+3rd Year,84.2,89.0,69.5,69.2,87.4,69.6,72.0,76.3,Borderline,60.6,Fail,False,Ambiguity
+3rd Year,67.4,73.0,62.8,70.5,64.1,66.3,67.4,96.2,Cannot pass,98.9,Pass,False,Underperformance
+4th Year,67.7,88.8,83.7,79.6,62.5,84.7,72.8,63.0,Achievable target,74.4,Pass,True,None
+2nd Year,60.5,80.0,89.0,79.7,97.0,73.1,73.8,72.6,Achievable target,99.2,Pass,True,None
+1st Year,60.2,67.1,65.6,68.0,63.9,63.8,71.3,97.5,Cannot pass,84.4,Fail,True,None
+3rd Year,94.0,87.1,98.3,99.0,75.8,73.9,71.7,61.8,Achievable target,84.8,Pass,True,None
+3rd Year,83.8,91.5,67.1,78.2,83.2,82.2,83.8,72.4,Achievable target,75.0,Pass,True,None
+3rd Year,93.0,61.1,61.8,85.7,83.1,86.9,81.3,65.6,Achievable target,92.0,Pass,True,None
+2nd Year,78.4,78.4,83.5,61.1,64.7,85.1,89.2,51.6,Achievable target,82.3,Pass,True,None
+3rd Year,79.9,92.3,84.3,79.7,68.7,70.2,80.0,65.8,Achievable target,81.3,Pass,True,None
+4th Year,69.7,70.6,69.2,93.4,93.5,84.7,74.7,58.5,Achievable target,90.8,Pass,True,None
+1st Year,80.6,68.3,74.0,72.7,65.7,70.3,82.5,66.9,Achievable target,76.3,Pass,True,None
+2nd Year,95.2,74.8,66.3,93.3,88.1,88.7,87.6,64.7,Achievable target,99.5,Pass,True,None
+1st Year,81.6,77.1,88.4,81.8,81.4,73.9,65.9,81.9,Borderline,72.4,Fail,False,Ambiguity
+1st Year,61.7,71.2,77.5,73.2,74.7,63.2,63.6,92.1,Cannot pass,53.3,Fail,True,None
+4th Year,85.9,70.3,80.6,84.7,65.8,73.7,66.2,76.5,Borderline,81.9,Pass,True,None
+1st Year,71.9,73.5,69.1,66.4,63.5,61.8,60.1,97.3,Cannot pass,63.2,Fail,True,None
+1st Year,84.4,94.3,64.1,82.5,80.3,89.5,85.6,54.0,Achievable target,59.4,Pass,True,None
+4th Year,91.6,95.4,72.6,72.4,75.9,70.7,74.0,69.6,Achievable target,84.0,Pass,True,None
+3rd Year,68.0,79.2,86.6,70.6,76.8,88.0,73.2,63.2,Achievable target,60.5,Fail,False,Overperformance
+4th Year,61.7,92.5,98.4,84.8,86.1,89.2,81.1,54.0,Achievable target,56.8,Pass,True,None
+4th Year,69.9,70.8,81.3,87.4,76.3,77.6,89.3,57.9,Achievable target,50.7,Fail,False,Overperformance
+2nd Year,88.3,64.8,94.3,65.2,86.3,89.0,82.8,71.6,Achievable target,87.7,Pass,True,None
+4th Year,72.0,61.9,76.8,91.8,78.3,72.2,75.8,52.7,Achievable target,95.5,Pass,True,None
+2nd Year,94.0,84.0,64.8,99.4,91.3,72.0,85.4,58.3,Achievable target,76.2,Pass,True,None
+3rd Year,94.3,87.4,98.9,69.1,72.0,76.2,86.9,67.8,Achievable target,92.7,Pass,True,None
+4th Year,92.2,73.2,73.4,92.6,94.4,76.6,82.4,73.4,Achievable target,77.0,Pass,True,None
+3rd Year,92.8,71.3,71.9,83.5,100.0,88.7,80.2,61.8,Achievable target,67.5,Pass,True,None
+1st Year,75.8,65.3,63.3,82.9,62.0,74.4,75.8,59.6,Achievable target,63.0,Pass,True,None
+1st Year,64.2,77.5,86.3,63.4,65.7,90.0,79.8,59.6,Achievable target,83.5,Pass,True,None
+4th Year,83.2,63.4,62.4,61.3,72.5,85.3,82.5,70.3,Achievable target,72.2,Pass,True,None
+2nd Year,64.6,78.0,74.5,81.0,75.4,84.4,72.5,69.0,Achievable target,84.9,Pass,True,None
+2nd Year,71.9,70.6,69.9,68.7,73.6,63.5,64.8,96.5,Cannot pass,94.5,Fail,True,None
+3rd Year,99.2,81.7,71.4,67.3,90.7,77.6,71.8,53.7,Achievable target,97.8,Pass,True,None
+4th Year,71.8,85.9,63.6,79.2,72.2,89.0,72.7,66.9,Achievable target,95.3,Pass,True,None
+1st Year,70.2,74.3,74.0,70.3,71.2,61.5,67.0,99.7,Cannot pass,56.8,Fail,True,None
+2nd Year,76.0,60.8,68.3,75.5,76.1,74.8,85.4,65.5,Achievable target,98.4,Pass,True,None
+4th Year,72.9,77.9,72.4,60.9,78.1,60.1,63.6,99.6,Cannot pass,73.2,Fail,True,None
+2nd Year,78.1,68.4,90.9,83.1,66.3,76.3,71.2,68.8,Achievable target,93.1,Pass,True,None
+2nd Year,70.6,65.1,76.8,64.5,62.5,81.8,70.3,60.8,Achievable target,75.0,Pass,True,None
+2nd Year,98.4,90.2,72.4,95.4,91.0,76.2,78.7,53.5,Achievable target,67.9,Pass,True,None
+1st Year,75.9,86.0,70.0,64.5,89.4,81.5,80.6,62.0,Achievable target,76.7,Pass,True,None
+3rd Year,88.1,87.3,62.9,85.4,81.4,77.1,83.4,55.9,Achievable target,76.3,Pass,True,None
+4th Year,85.5,88.1,63.3,93.8,85.8,77.5,79.5,58.0,Achievable target,99.0,Pass,True,None
+4th Year,65.5,78.7,72.5,72.8,71.6,69.2,67.9,91.1,Cannot pass,68.8,Fail,True,None
+3rd Year,68.9,84.6,76.3,65.4,70.7,68.3,69.4,75.2,Borderline,83.3,Pass,True,None
+4th Year,93.4,80.7,75.1,96.3,80.7,77.3,83.1,58.5,Achievable target,94.5,Pass,True,None
+2nd Year,94.7,67.2,66.7,80.3,70.9,72.5,71.9,71.4,Achievable target,88.2,Pass,True,None
+2nd Year,95.7,81.6,62.0,61.2,96.1,73.4,76.2,51.2,Achievable target,69.9,Pass,True,None
+2nd Year,69.5,91.4,92.0,71.5,86.6,84.8,81.2,72.2,Achievable target,83.0,Pass,True,None
+1st Year,77.9,63.1,74.7,77.4,62.6,60.5,60.3,94.3,Cannot pass,99.1,Pass,False,Underperformance
+2nd Year,74.7,75.3,82.7,84.2,87.2,71.3,85.6,72.8,Achievable target,82.9,Pass,True,None
+1st Year,83.2,90.2,92.4,90.3,86.4,74.4,72.8,60.9,Achievable target,72.3,Pass,True,None
+2nd Year,64.8,70.2,74.0,64.0,69.6,61.7,68.9,93.0,Cannot pass,54.3,Fail,True,None
+4th Year,66.8,71.7,63.3,93.8,72.3,74.0,70.5,59.5,Achievable target,79.3,Pass,True,None
+4th Year,72.7,64.9,80.5,85.0,73.9,65.5,77.5,76.2,Borderline,67.9,Fail,True,None
+2nd Year,93.2,82.2,83.5,92.5,69.3,85.7,74.1,68.6,Achievable target,93.4,Pass,True,None
+3rd Year,60.3,68.0,82.6,72.2,84.9,76.5,81.1,61.1,Achievable target,84.1,Pass,True,None
+1st Year,88.8,63.0,70.8,69.3,62.0,69.9,70.5,88.2,Borderline,74.8,Fail,True,None
+3rd Year,69.2,76.6,66.0,66.7,70.4,68.0,63.0,96.7,Cannot pass,90.3,Fail,True,None
+3rd Year,92.9,60.5,80.7,74.9,79.4,71.9,81.6,58.2,Achievable target,96.3,Pass,True,None
+1st Year,60.5,87.4,62.1,93.2,77.2,72.5,76.9,64.3,Achievable target,50.1,Fail,False,Overperformance
+4th Year,88.2,77.9,60.2,63.2,70.2,83.9,72.8,70.0,Achievable target,86.5,Pass,True,None
+4th Year,86.8,94.3,73.2,87.7,71.5,77.0,76.7,72.7,Achievable target,94.9,Pass,True,None
+2nd Year,60.3,75.6,64.2,74.1,61.2,76.0,67.3,83.3,Borderline,57.0,Fail,True,None
+1st Year,62.6,74.5,62.1,69.9,64.5,70.7,65.7,93.6,Cannot pass,70.8,Fail,True,None
+2nd Year,60.8,78.1,85.3,83.4,76.2,67.7,67.4,88.4,Borderline,92.2,Pass,True,None
+4th Year,73.7,78.5,87.6,87.1,88.0,76.6,69.5,86.5,Borderline,94.2,Pass,True,None
+3rd Year,93.8,82.4,73.9,74.6,85.2,87.8,85.2,52.8,Achievable target,51.2,Fail,False,Overperformance
+2nd Year,82.4,88.6,88.1,76.8,78.0,74.7,82.0,56.7,Achievable target,94.3,Pass,True,None
+2nd Year,72.0,92.6,96.5,66.4,60.9,87.1,84.5,59.4,Achievable target,53.9,Fail,False,Overperformance
+1st Year,62.8,61.7,73.8,62.5,65.5,70.8,60.4,92.1,Cannot pass,53.9,Fail,True,None
+2nd Year,90.0,86.7,65.2,68.0,84.2,82.4,75.6,52.4,Achievable target,72.2,Pass,True,None
+1st Year,93.1,68.4,89.3,92.4,88.0,89.6,76.7,51.3,Achievable target,51.0,Fail,False,Overperformance
+1st Year,66.3,77.2,65.5,77.1,73.1,65.3,68.5,97.4,Cannot pass,98.3,Pass,False,Underperformance
+1st Year,99.3,66.6,62.5,90.4,86.4,71.7,76.3,65.4,Achievable target,96.6,Pass,True,None
+1st Year,80.8,77.7,71.1,99.9,77.4,85.3,73.5,69.5,Achievable target,99.1,Pass,True,None
+1st Year,88.7,71.7,60.1,74.1,82.8,82.6,81.5,54.5,Achievable target,84.9,Pass,True,None
+3rd Year,63.4,65.4,72.7,82.8,86.1,76.0,77.6,76.1,Borderline,76.3,Pass,True,None
+1st Year,82.9,70.8,80.2,87.1,72.7,72.5,66.5,80.5,Borderline,95.0,Pass,False,Ambiguity
+2nd Year,71.5,64.8,70.6,65.5,77.7,61.4,70.7,97.0,Cannot pass,69.0,Fail,True,None
+4th Year,90.4,69.9,66.1,80.4,70.0,75.8,79.7,68.4,Achievable target,65.8,Fail,False,Overperformance
+2nd Year,68.6,65.4,82.1,83.7,71.1,72.8,87.1,67.5,Achievable target,57.3,Fail,False,Overperformance
+1st Year,76.7,81.4,94.7,79.0,95.3,86.8,86.4,61.4,Achievable target,64.4,Pass,True,None
+2nd Year,63.6,80.0,67.2,83.4,95.8,79.3,82.9,63.1,Achievable target,77.6,Pass,True,None
+3rd Year,66.5,78.2,97.8,87.1,97.6,75.2,83.0,53.4,Achievable target,50.7,Fail,False,Overperformance
+1st Year,62.2,94.4,66.7,66.3,90.9,79.9,80.2,71.5,Achievable target,90.7,Pass,True,None
+1st Year,80.3,74.1,84.1,92.5,89.5,86.5,84.0,60.9,Achievable target,62.0,Pass,True,None
+2nd Year,73.6,76.2,80.2,69.9,77.1,77.8,67.8,87.3,Borderline,99.3,Pass,False,Ambiguity
+4th Year,70.5,62.8,77.5,68.4,60.2,65.9,67.5,91.3,Cannot pass,100.0,Pass,False,Underperformance
+3rd Year,76.3,62.8,89.3,84.9,63.6,70.5,65.3,85.0,Borderline,54.4,Fail,True,None
+2nd Year,67.6,79.0,74.9,68.0,61.1,63.3,61.1,94.0,Cannot pass,86.1,Fail,True,None
+4th Year,73.9,70.1,73.7,67.2,67.1,61.2,66.3,94.7,Cannot pass,92.9,Fail,True,None
+4th Year,91.6,69.9,85.8,69.9,84.0,77.0,78.6,67.3,Achievable target,76.6,Pass,True,None
+1st Year,76.7,63.1,90.7,87.1,95.5,80.5,81.4,50.6,Achievable target,84.3,Pass,True,None
+1st Year,61.8,84.3,84.8,81.8,61.2,70.7,75.8,80.6,Borderline,98.6,Pass,True,None
+2nd Year,94.5,81.1,85.6,83.9,84.5,79.2,75.2,64.1,Achievable target,76.6,Pass,True,None
+1st Year,77.9,61.9,69.9,67.2,76.8,61.3,63.4,94.0,Cannot pass,71.6,Fail,True,None
+3rd Year,66.0,84.6,87.8,86.8,81.4,71.9,73.5,83.1,Borderline,56.2,Fail,True,None
+1st Year,77.6,80.9,66.3,74.9,71.3,75.0,78.8,59.8,Achievable target,73.4,Pass,True,None
+4th Year,91.5,86.0,63.1,61.2,93.3,85.2,80.8,66.1,Achievable target,88.9,Pass,True,None
+4th Year,82.7,83.3,98.6,64.0,64.2,72.3,73.0,68.7,Achievable target,93.3,Pass,True,None
+3rd Year,97.0,61.6,64.0,93.9,84.5,81.1,78.8,68.7,Achievable target,69.2,Pass,True,None
+2nd Year,65.5,70.2,73.1,60.3,89.9,76.0,74.2,54.2,Achievable target,71.6,Pass,True,None
+1st Year,75.6,74.1,71.6,83.5,88.7,73.9,70.3,87.4,Borderline,70.0,Fail,True,None
+4th Year,76.2,64.4,61.7,67.2,64.1,66.3,69.3,98.5,Cannot pass,67.5,Fail,True,None
+4th Year,80.2,60.9,84.0,87.9,65.2,78.4,88.6,51.1,Achievable target,50.6,Fail,False,Overperformance
+4th Year,61.5,70.4,95.8,81.6,86.2,85.4,74.3,53.6,Achievable target,71.8,Pass,True,None
+3rd Year,77.8,62.0,82.7,64.2,74.4,67.7,74.5,77.2,Borderline,76.3,Fail,True,None
+4th Year,80.2,98.6,60.2,89.4,82.1,79.1,81.8,60.4,Achievable target,83.6,Pass,True,None
+3rd Year,84.4,65.1,63.9,74.9,99.5,86.5,82.5,63.4,Achievable target,76.8,Pass,True,None
+4th Year,72.9,99.0,89.3,77.5,85.6,81.7,76.7,61.7,Achievable target,73.9,Pass,True,None
+1st Year,88.1,80.9,93.2,93.4,70.5,89.6,76.5,63.1,Achievable target,69.5,Pass,True,None
+1st Year,92.5,60.9,62.6,96.1,77.7,81.6,75.2,53.1,Achievable target,95.5,Pass,True,None
+3rd Year,62.7,69.6,86.3,64.1,83.3,84.9,77.1,68.2,Achievable target,72.4,Pass,True,None
+3rd Year,60.0,62.9,77.7,66.0,61.6,65.5,62.0,92.4,Cannot pass,93.9,Pass,False,Underperformance
+4th Year,67.3,82.7,75.7,97.8,69.6,79.2,88.2,70.9,Achievable target,78.9,Pass,True,None
+2nd Year,74.4,75.7,69.6,61.3,71.6,63.8,64.7,99.6,Cannot pass,63.8,Fail,True,None
+4th Year,76.7,64.6,60.8,73.0,92.1,81.5,84.2,64.8,Achievable target,94.1,Pass,True,None
+1st Year,63.0,63.6,74.9,75.0,74.0,66.8,69.8,93.1,Cannot pass,67.7,Fail,True,None
+2nd Year,60.8,71.2,96.9,74.3,63.6,78.9,74.4,64.7,Achievable target,75.4,Pass,True,None
+1st Year,71.1,75.5,60.1,63.2,62.0,68.7,61.8,95.5,Cannot pass,97.3,Pass,False,Underperformance
+1st Year,74.8,64.9,76.4,60.2,77.1,67.4,67.7,93.0,Cannot pass,56.8,Fail,True,None
+4th Year,86.3,92.2,71.4,61.3,84.0,78.8,74.0,62.4,Achievable target,71.1,Pass,True,None
+4th Year,63.1,89.9,78.1,78.0,70.9,74.9,67.9,87.2,Borderline,95.7,Pass,False,Ambiguity
+3rd Year,79.2,67.1,75.9,72.8,89.4,82.1,83.9,65.2,Achievable target,98.9,Pass,True,None
+1st Year,65.9,94.2,74.8,74.9,71.4,88.2,77.2,58.4,Achievable target,99.1,Pass,True,None
+3rd Year,80.5,89.0,97.4,96.2,94.7,70.7,78.0,55.6,Achievable target,58.3,Pass,True,None
+4th Year,96.6,76.6,82.2,88.4,90.2,71.8,78.2,53.3,Achievable target,62.0,Pass,True,None
+3rd Year,60.3,62.2,61.2,72.8,72.1,65.3,67.7,91.8,Cannot pass,56.7,Fail,True,None
+4th Year,71.1,91.4,65.8,79.0,74.7,79.5,74.9,57.4,Achievable target,84.9,Pass,True,None
+4th Year,77.6,65.4,64.1,75.7,67.0,61.2,68.8,93.0,Cannot pass,75.6,Fail,True,None
+3rd Year,65.1,74.7,92.4,83.4,90.6,71.2,81.8,65.0,Achievable target,78.3,Pass,True,None
+3rd Year,71.1,62.5,75.5,99.8,70.3,75.1,85.6,69.5,Achievable target,74.9,Pass,True,None
+2nd Year,68.5,80.5,72.5,73.6,85.4,80.4,80.8,50.6,Achievable target,94.6,Pass,True,None
+3rd Year,70.5,75.3,62.3,63.5,68.6,64.2,66.5,91.9,Cannot pass,74.9,Fail,True,None
+3rd Year,73.4,69.8,72.6,72.0,70.9,70.1,70.5,93.0,Cannot pass,59.4,Fail,True,None
+1st Year,61.8,94.5,69.8,78.9,75.3,74.6,80.2,53.6,Achievable target,96.8,Pass,True,None
+4th Year,63.0,66.4,71.3,68.1,60.1,63.7,64.1,96.9,Cannot pass,99.2,Pass,False,Underperformance
+3rd Year,67.4,95.4,74.8,77.8,70.5,71.8,80.9,61.2,Achievable target,70.0,Pass,True,None
+3rd Year,72.1,68.6,71.3,67.5,72.7,69.8,67.5,90.7,Cannot pass,56.8,Fail,True,None
+1st Year,70.4,63.6,74.7,97.9,64.7,78.0,78.6,67.2,Achievable target,81.5,Pass,True,None
+4th Year,82.6,82.7,94.0,87.1,81.6,88.6,76.0,59.2,Achievable target,89.4,Pass,True,None
+2nd Year,64.6,88.3,78.3,85.7,68.4,76.0,74.8,88.4,Borderline,86.3,Fail,True,None
+2nd Year,66.3,73.1,70.2,79.6,72.8,66.8,67.4,79.0,Borderline,87.1,Pass,True,None
+4th Year,86.3,88.5,77.5,78.8,71.2,79.2,71.7,53.9,Achievable target,92.6,Pass,True,None
+1st Year,97.7,88.5,88.4,71.0,95.8,74.5,82.2,70.4,Achievable target,84.0,Pass,True,None
+1st Year,98.0,93.5,66.2,63.2,93.2,77.9,81.8,65.8,Achievable target,81.3,Pass,True,None
+3rd Year,82.3,92.4,73.8,76.5,74.0,75.2,77.2,66.3,Achievable target,86.7,Pass,True,None
+4th Year,90.8,89.9,94.0,97.1,85.4,88.6,72.4,65.2,Achievable target,67.1,Pass,True,None
+1st Year,76.9,72.5,65.2,71.1,79.0,67.6,69.4,92.1,Cannot pass,53.9,Fail,True,None
+2nd Year,96.2,92.8,63.9,84.4,93.4,70.3,82.7,51.5,Achievable target,91.1,Pass,True,None
+4th Year,71.3,75.6,87.8,71.5,78.0,72.3,75.9,83.3,Borderline,76.3,Fail,False,Ambiguity
+3rd Year,60.1,85.2,75.7,96.9,97.2,79.7,75.3,73.0,Achievable target,61.8,Fail,False,Overperformance
+3rd Year,94.9,97.6,76.9,96.6,62.1,83.4,78.2,56.9,Achievable target,70.4,Pass,True,None
+3rd Year,75.9,98.7,93.0,79.8,72.9,87.0,85.9,56.8,Achievable target,80.4,Pass,True,None
+1st Year,71.5,88.5,90.7,76.9,76.1,89.0,78.0,65.4,Achievable target,84.0,Pass,True,None
+3rd Year,82.7,65.5,60.2,86.8,75.3,73.1,66.4,81.9,Borderline,55.7,Fail,True,None
+2nd Year,74.2,72.1,99.8,99.1,71.0,70.4,83.7,51.5,Achievable target,64.0,Pass,True,None
+1st Year,67.2,71.8,64.1,73.1,71.8,78.6,89.9,60.7,Achievable target,88.9,Pass,True,None
+1st Year,82.1,94.3,80.8,96.7,60.5,71.7,81.1,66.8,Achievable target,86.3,Pass,True,None
+4th Year,64.5,77.6,67.7,77.7,76.5,61.8,67.9,91.2,Cannot pass,57.0,Fail,True,None
+1st Year,93.9,62.3,60.2,78.4,71.9,88.7,87.8,52.6,Achievable target,50.9,Fail,False,Overperformance
+2nd Year,75.2,72.2,71.3,82.5,79.2,81.1,73.5,58.0,Achievable target,88.0,Pass,True,None
+2nd Year,75.9,71.1,62.8,90.9,74.0,74.5,83.2,62.2,Achievable target,87.9,Pass,True,None
+4th Year,78.8,86.5,62.6,80.3,90.1,74.2,71.6,65.5,Achievable target,83.1,Pass,True,None
+1st Year,90.7,77.9,85.1,64.7,65.3,78.4,76.2,54.9,Achievable target,83.0,Pass,True,None
+1st Year,96.2,81.8,93.4,83.3,65.9,71.5,87.7,53.1,Achievable target,67.6,Pass,True,None
+4th Year,60.5,72.6,73.8,60.7,75.0,60.5,63.4,98.1,Cannot pass,68.1,Fail,True,None
+1st Year,72.4,69.9,71.4,85.1,65.3,83.1,87.7,70.1,Achievable target,71.0,Pass,True,None
+2nd Year,71.0,74.9,65.4,70.3,64.2,64.1,71.6,92.3,Cannot pass,94.3,Pass,False,Underperformance
+2nd Year,93.1,92.0,67.9,76.6,67.3,75.2,83.7,71.0,Achievable target,98.4,Pass,True,None
+3rd Year,99.7,79.6,74.2,97.6,77.3,70.6,75.5,66.3,Achievable target,88.6,Pass,True,None
+2nd Year,79.1,82.5,76.9,90.3,92.4,79.8,87.7,64.7,Achievable target,80.0,Pass,True,None
+1st Year,78.6,65.3,92.5,96.8,78.7,89.5,85.1,60.9,Achievable target,87.7,Pass,True,None
+4th Year,78.7,74.5,90.4,95.4,69.0,75.5,83.6,56.7,Achievable target,74.9,Pass,True,None
+2nd Year,71.6,70.7,94.3,99.4,87.2,76.5,84.1,52.3,Achievable target,98.2,Pass,True,None
+3rd Year,87.8,84.5,64.4,89.2,85.2,80.5,80.5,73.7,Achievable target,86.4,Pass,True,None
+2nd Year,78.8,86.7,89.4,82.4,81.2,76.0,72.6,88.7,Borderline,97.8,Pass,False,Ambiguity
+4th Year,86.8,63.6,78.5,92.7,75.3,85.5,89.8,65.2,Achievable target,56.7,Fail,False,Overperformance
+1st Year,72.2,88.2,84.1,68.6,94.3,71.8,86.2,53.6,Achievable target,86.6,Pass,True,None
+2nd Year,76.9,65.4,95.7,85.2,81.4,79.5,70.2,57.6,Achievable target,78.2,Pass,True,None
+2nd Year,74.5,71.2,96.2,88.3,68.4,74.7,79.9,54.7,Achievable target,91.9,Pass,True,None
+1st Year,61.7,72.1,60.4,63.9,65.0,79.4,88.2,64.4,Achievable target,85.3,Pass,True,None
+4th Year,65.2,66.4,67.8,68.8,68.0,60.7,69.3,99.1,Cannot pass,63.1,Fail,True,None
+2nd Year,73.7,87.3,61.9,64.0,91.4,81.3,79.7,61.0,Achievable target,65.8,Pass,True,None
+4th Year,88.9,88.8,98.9,90.5,80.3,73.2,70.1,52.6,Achievable target,82.2,Pass,True,None
+2nd Year,93.0,63.7,68.5,85.6,98.8,89.4,89.0,51.2,Achievable target,67.5,Pass,True,None
+3rd Year,73.2,64.4,76.7,72.3,96.0,79.5,70.3,70.9,Achievable target,89.2,Pass,True,None
+3rd Year,67.7,74.9,86.3,92.8,84.2,89.9,83.9,60.1,Achievable target,51.5,Fail,False,Overperformance
+3rd Year,73.5,77.2,74.8,95.6,100.0,88.6,79.5,69.6,Achievable target,68.3,Fail,False,Overperformance
+4th Year,88.2,71.9,84.6,63.4,65.4,82.3,86.3,52.8,Achievable target,67.2,Pass,True,None
+1st Year,69.4,96.7,83.0,83.1,90.9,72.8,89.9,69.6,Achievable target,76.8,Pass,True,None
+1st Year,63.7,83.0,63.4,71.4,97.2,71.5,74.8,69.4,Achievable target,50.2,Fail,False,Overperformance
+4th Year,84.8,73.5,87.7,65.3,68.7,71.4,71.0,82.5,Borderline,60.8,Fail,True,None
+4th Year,70.3,69.3,66.7,68.3,83.3,65.2,77.3,86.0,Borderline,95.1,Pass,True,None
+3rd Year,93.0,79.3,92.3,89.9,73.5,86.6,75.1,52.8,Achievable target,98.2,Pass,True,None
+3rd Year,63.4,66.5,67.7,71.5,65.7,65.1,61.5,96.5,Cannot pass,89.7,Fail,True,None
+4th Year,62.9,82.9,70.0,77.8,95.9,84.3,72.1,53.6,Achievable target,83.3,Pass,True,None
+2nd Year,69.3,85.5,78.4,86.7,96.0,80.0,81.7,61.2,Achievable target,72.4,Pass,True,None
+2nd Year,66.8,62.4,68.2,70.1,63.0,67.3,69.6,95.0,Cannot pass,89.6,Fail,True,None
+1st Year,63.3,61.5,70.3,70.6,67.8,70.0,60.3,94.3,Cannot pass,55.6,Fail,True,None
+4th Year,64.4,67.9,84.8,82.6,63.4,70.6,66.6,77.4,Borderline,61.3,Fail,True,None
+4th Year,96.0,80.7,67.6,76.9,93.2,78.0,81.7,56.1,Achievable target,51.8,Fail,False,Overperformance
+1st Year,65.7,64.7,61.8,65.1,94.9,76.3,80.6,70.0,Achievable target,92.4,Pass,True,None
+4th Year,63.5,86.8,67.4,65.6,72.9,86.5,80.3,56.0,Achievable target,67.5,Pass,True,None
+1st Year,95.9,72.4,89.5,90.3,84.8,74.7,82.3,51.4,Achievable target,69.6,Pass,True,None
+2nd Year,63.8,90.1,81.7,94.9,93.1,85.3,73.7,66.4,Achievable target,76.5,Pass,True,None
+4th Year,64.3,76.4,63.8,62.1,64.2,60.7,60.2,95.9,Cannot pass,74.2,Fail,True,None
+2nd Year,77.4,60.6,91.8,83.4,75.8,89.5,74.7,55.8,Achievable target,98.6,Pass,True,None
+4th Year,78.1,69.9,87.6,64.8,73.9,71.5,66.4,88.5,Borderline,88.6,Pass,True,None
+4th Year,87.2,100.0,93.7,68.5,93.6,75.5,75.0,56.8,Achievable target,63.8,Pass,True,None
+3rd Year,76.2,74.7,64.7,78.0,63.5,69.1,71.8,98.9,Cannot pass,86.9,Fail,True,None
+1st Year,77.2,74.5,64.5,61.8,74.5,61.7,71.9,98.1,Cannot pass,89.2,Fail,True,None
+2nd Year,72.6,77.7,67.5,70.5,66.8,70.1,67.1,88.3,Borderline,89.9,Pass,True,None
+1st Year,68.8,92.2,77.0,92.5,99.3,79.9,86.0,66.3,Achievable target,77.2,Pass,True,None
+1st Year,69.6,84.8,70.1,74.2,91.8,88.4,80.5,51.9,Achievable target,98.0,Pass,True,None
+1st Year,95.6,65.8,97.1,78.2,75.5,79.4,79.7,53.3,Achievable target,86.9,Pass,True,None
+2nd Year,75.7,71.3,87.8,79.5,86.1,72.6,71.5,81.7,Borderline,65.3,Fail,True,None
+1st Year,97.1,64.2,91.5,72.1,63.5,84.0,71.5,68.4,Achievable target,82.2,Pass,True,None
+2nd Year,96.9,73.5,64.5,79.2,61.6,86.0,84.6,66.3,Achievable target,70.2,Pass,True,None
+1st Year,93.3,79.9,88.7,80.4,70.9,79.2,72.3,70.0,Achievable target,99.4,Pass,True,None
+4th Year,70.1,66.2,76.9,75.1,78.0,72.8,76.1,64.4,Achievable target,85.1,Pass,True,None
+3rd Year,65.3,61.0,99.4,84.7,84.2,73.0,73.8,64.7,Achievable target,85.8,Pass,True,None
+1st Year,68.6,80.2,88.3,74.7,83.6,89.5,72.0,60.6,Achievable target,98.3,Pass,True,None
+3rd Year,89.8,82.0,64.9,79.2,72.0,73.2,84.6,58.7,Achievable target,60.9,Pass,True,None
+1st Year,87.1,66.6,99.4,69.8,67.0,87.0,83.0,53.8,Achievable target,79.7,Pass,True,None
+1st Year,89.7,89.9,90.2,96.6,87.8,74.2,73.8,66.9,Achievable target,80.0,Pass,True,None
+2nd Year,87.5,79.1,80.1,84.2,88.5,83.7,77.2,59.0,Achievable target,93.9,Pass,True,None
+3rd Year,79.0,99.0,81.6,70.9,77.8,87.2,76.5,73.3,Achievable target,91.9,Pass,True,None
+2nd Year,92.2,92.9,78.9,84.0,63.5,77.8,82.7,56.3,Achievable target,72.5,Pass,True,None
+3rd Year,99.7,87.8,86.7,75.1,96.2,81.0,82.5,62.6,Achievable target,72.2,Pass,True,None
+2nd Year,80.0,86.4,74.2,69.0,77.0,76.1,84.8,68.1,Achievable target,92.4,Pass,True,None
+4th Year,72.7,82.3,63.5,84.2,87.2,70.5,65.7,82.0,Borderline,74.9,Fail,True,None
+2nd Year,81.7,78.2,91.0,80.2,89.3,79.0,86.4,71.2,Achievable target,89.0,Pass,True,None
+1st Year,65.5,88.1,67.4,94.9,85.1,89.5,79.3,66.9,Achievable target,66.9,Pass,True,None
+4th Year,69.2,82.8,69.8,82.0,97.7,75.9,73.9,58.1,Achievable target,90.1,Pass,True,None
+2nd Year,95.3,80.1,96.9,93.7,75.6,76.5,85.3,52.6,Achievable target,50.3,Fail,False,Overperformance
+3rd Year,96.9,90.0,89.1,82.5,62.5,75.8,70.7,61.4,Achievable target,67.9,Pass,True,None
+1st Year,60.2,68.4,66.7,73.0,62.0,67.6,70.4,99.1,Cannot pass,99.4,Pass,False,Underperformance
+4th Year,61.9,60.7,95.2,74.3,66.3,76.1,74.2,69.9,Achievable target,96.8,Pass,True,None
+2nd Year,75.1,81.8,64.1,79.2,94.6,87.7,79.9,65.6,Achievable target,89.2,Pass,True,None
+1st Year,64.5,60.8,79.4,77.2,67.9,78.5,85.3,50.8,Achievable target,83.3,Pass,True,None
+1st Year,73.1,84.4,85.9,85.4,78.6,82.4,88.9,66.8,Achievable target,88.4,Pass,True,None
+2nd Year,93.4,67.8,67.3,92.0,94.1,73.2,74.4,70.4,Achievable target,98.0,Pass,True,None
+4th Year,63.2,91.2,79.7,89.5,97.1,85.8,75.5,58.0,Achievable target,75.7,Pass,True,None
+4th Year,90.1,73.9,88.4,85.4,74.7,89.1,85.4,51.4,Achievable target,70.1,Pass,True,None
+4th Year,94.7,65.1,94.6,70.0,88.5,88.4,89.8,69.9,Achievable target,92.8,Pass,True,None
+2nd Year,66.3,82.4,96.9,64.8,94.1,79.1,70.7,52.6,Achievable target,70.1,Pass,True,None
+4th Year,88.3,64.6,73.3,80.2,82.8,66.6,74.6,75.2,Borderline,52.9,Fail,False,Ambiguity
+4th Year,72.8,83.6,79.7,97.4,73.6,71.7,80.7,54.3,Achievable target,55.4,Pass,True,None
+2nd Year,79.8,72.2,70.5,75.4,68.9,71.9,66.0,91.4,Cannot pass,62.0,Fail,True,None
+2nd Year,81.5,66.7,78.3,89.7,90.6,75.8,75.5,63.2,Achievable target,67.4,Pass,True,None
+1st Year,74.9,64.5,96.6,70.0,81.6,78.5,77.6,68.4,Achievable target,52.2,Fail,False,Overperformance
+3rd Year,63.6,62.8,66.3,64.5,63.8,60.6,68.5,98.8,Cannot pass,99.0,Pass,False,Underperformance
+3rd Year,84.1,91.0,98.6,71.8,67.1,85.1,80.9,66.4,Achievable target,72.7,Pass,True,None
+3rd Year,82.8,82.9,63.8,78.4,66.2,88.4,80.2,56.4,Achievable target,95.2,Pass,True,None
+1st Year,74.0,69.5,66.1,78.1,64.8,61.1,66.0,93.2,Cannot pass,53.0,Fail,True,None
+2nd Year,88.1,66.6,98.1,80.9,91.3,72.4,84.2,67.3,Achievable target,72.8,Pass,True,None
+3rd Year,79.9,64.8,79.5,63.9,72.9,64.0,71.5,98.3,Cannot pass,88.6,Fail,True,None
+2nd Year,73.2,71.7,98.0,84.7,79.0,87.7,83.3,63.5,Achievable target,91.0,Pass,True,None
+2nd Year,63.6,93.8,97.7,98.0,73.9,73.7,77.0,53.9,Achievable target,77.0,Pass,True,None
+4th Year,74.4,71.8,88.0,60.9,93.2,72.1,77.6,59.5,Achievable target,59.8,Pass,True,None
+2nd Year,81.6,91.1,81.2,60.0,73.0,73.1,85.3,50.5,Achievable target,96.5,Pass,True,None
+1st Year,78.5,68.7,78.6,75.9,66.4,68.5,63.8,98.4,Cannot pass,81.9,Fail,True,None
+2nd Year,81.2,98.0,90.1,69.9,78.1,70.5,72.5,66.5,Achievable target,64.3,Fail,False,Overperformance
+1st Year,70.8,88.6,89.1,69.3,66.0,73.7,72.0,61.8,Achievable target,74.9,Pass,True,None
+2nd Year,86.6,74.8,82.1,73.8,99.9,78.1,74.9,63.2,Achievable target,76.1,Pass,True,None
+2nd Year,71.7,77.7,80.2,89.3,64.0,88.2,73.1,65.5,Achievable target,77.0,Pass,True,None
+3rd Year,97.1,62.2,80.8,82.6,87.1,79.2,86.3,63.3,Achievable target,64.0,Pass,True,None
+2nd Year,82.1,87.9,65.1,94.7,79.6,75.5,89.5,70.9,Achievable target,87.6,Pass,True,None
+4th Year,90.4,83.9,99.2,93.3,71.8,75.5,81.8,58.7,Achievable target,71.2,Pass,True,None
+4th Year,62.8,72.1,81.0,80.6,84.1,74.5,69.3,80.3,Borderline,64.3,Fail,False,Ambiguity
+3rd Year,76.7,98.5,96.1,92.5,97.4,88.9,87.3,67.3,Achievable target,73.5,Pass,True,None
+4th Year,99.4,77.1,94.3,95.8,92.1,74.5,78.1,72.5,Achievable target,82.6,Pass,True,None
+4th Year,60.0,79.1,65.3,69.0,87.2,83.1,84.1,50.2,Achievable target,84.8,Pass,True,None
+3rd Year,82.7,88.7,68.5,80.0,95.4,71.3,88.3,65.4,Achievable target,70.3,Pass,True,None
+1st Year,72.6,62.0,89.1,73.9,72.5,69.5,67.9,87.6,Borderline,66.5,Fail,True,None
+1st Year,65.6,61.5,66.7,67.2,78.5,62.7,71.5,90.9,Cannot pass,51.8,Fail,True,None
+2nd Year,72.0,73.6,63.0,73.3,66.0,62.1,66.4,98.2,Cannot pass,66.8,Fail,True,None
+4th Year,79.7,90.2,72.0,90.6,91.9,80.7,83.8,64.3,Achievable target,92.7,Pass,True,None
+3rd Year,72.3,74.4,70.8,65.3,67.5,72.1,70.1,60.8,Achievable target,82.5,Pass,True,None
+3rd Year,82.5,67.5,99.5,95.3,79.7,89.0,81.3,57.4,Achievable target,78.3,Pass,True,None
+3rd Year,79.0,74.1,78.4,66.8,90.7,79.1,70.6,64.5,Achievable target,69.0,Pass,True,None
+4th Year,66.8,75.0,88.2,67.9,67.3,83.1,84.7,72.8,Achievable target,60.2,Fail,False,Overperformance
+4th Year,68.2,67.6,87.9,88.9,89.2,73.1,72.0,56.4,Achievable target,68.7,Pass,True,None
+3rd Year,82.6,84.5,99.7,75.9,68.1,75.2,80.7,63.3,Achievable target,83.8,Pass,True,None
+2nd Year,80.0,72.3,60.9,97.8,80.2,80.0,80.3,73.2,Achievable target,79.0,Pass,True,None
+3rd Year,82.5,85.8,85.9,98.7,73.3,73.3,82.3,69.1,Achievable target,72.4,Pass,True,None
+3rd Year,78.2,73.5,60.1,78.2,60.7,63.7,70.8,90.4,Cannot pass,81.9,Fail,True,None
+2nd Year,83.8,91.5,81.0,81.1,74.5,85.2,83.6,72.0,Achievable target,75.1,Pass,True,None
+2nd Year,77.6,85.9,89.1,61.6,82.6,75.0,77.7,83.2,Borderline,75.6,Fail,False,Ambiguity
+1st Year,89.7,76.6,77.7,66.6,89.1,74.3,87.8,71.5,Achievable target,92.3,Pass,True,None
+3rd Year,98.3,78.0,92.4,93.5,99.3,82.1,80.0,52.0,Achievable target,83.0,Pass,True,None
+4th Year,67.2,77.1,70.1,67.0,74.1,63.3,71.8,94.0,Cannot pass,52.8,Fail,True,None
+4th Year,99.2,68.9,77.0,62.5,77.1,80.5,84.0,51.2,Achievable target,50.1,Fail,False,Overperformance
+1st Year,94.9,64.3,81.4,60.2,64.7,84.9,82.1,54.1,Achievable target,76.0,Pass,True,None
+1st Year,76.8,68.1,77.9,78.4,60.8,70.9,63.4,96.5,Cannot pass,53.2,Fail,True,None
+2nd Year,82.5,70.9,64.4,89.6,69.6,86.6,75.4,51.2,Achievable target,95.4,Pass,True,None
+3rd Year,97.1,97.9,96.6,95.9,76.7,78.7,74.4,51.1,Achievable target,99.6,Pass,True,None
+2nd Year,64.0,77.5,79.0,77.1,75.0,68.8,63.4,90.1,Cannot pass,52.7,Fail,True,None
+2nd Year,76.1,69.8,68.2,64.7,65.8,69.3,65.8,95.1,Cannot pass,90.0,Fail,True,None
+4th Year,80.1,95.8,88.1,72.4,64.7,76.1,78.1,72.0,Achievable target,80.3,Pass,True,None
+2nd Year,64.7,67.2,70.0,60.0,72.0,70.6,62.1,94.0,Cannot pass,94.5,Pass,False,Underperformance
+2nd Year,79.8,69.9,89.2,80.1,75.6,67.9,67.4,83.1,Borderline,98.0,Pass,True,None
+1st Year,73.6,68.7,76.3,64.0,61.0,66.9,67.8,95.0,Cannot pass,52.1,Fail,True,None
+1st Year,83.9,69.5,80.3,80.2,98.0,71.0,74.8,56.5,Achievable target,70.3,Pass,True,None
+4th Year,73.8,79.4,81.1,64.9,88.4,75.5,71.3,66.3,Achievable target,84.3,Pass,True,None
+4th Year,91.3,72.3,94.3,88.4,70.9,73.7,72.3,52.1,Achievable target,94.1,Pass,True,None
+1st Year,67.2,64.0,63.1,70.7,77.2,67.9,66.2,92.4,Cannot pass,83.9,Fail,True,None
+1st Year,75.6,66.7,64.8,63.3,62.1,61.3,64.4,92.2,Cannot pass,50.5,Fail,True,None
+1st Year,66.7,74.5,68.0,68.0,93.8,84.8,87.8,59.7,Achievable target,69.1,Pass,True,None
+2nd Year,60.0,72.0,97.8,80.8,91.3,78.5,88.9,65.8,Achievable target,57.0,Fail,False,Overperformance
+3rd Year,69.1,63.1,70.1,78.3,64.4,69.1,63.7,93.7,Cannot pass,92.5,Fail,True,None
+3rd Year,60.9,77.3,73.8,80.5,73.3,66.7,65.8,78.4,Borderline,55.0,Fail,True,None
+4th Year,81.7,78.2,72.9,67.5,87.9,76.9,81.0,63.7,Achievable target,72.2,Pass,True,None
+4th Year,75.2,90.1,93.3,70.1,63.3,76.5,85.2,50.5,Achievable target,77.2,Pass,True,None
+4th Year,67.7,76.0,69.3,76.3,63.0,64.4,63.3,92.9,Cannot pass,55.1,Fail,True,None
+4th Year,77.3,77.1,75.4,66.9,68.5,67.8,62.1,96.2,Cannot pass,99.5,Pass,False,Underperformance
+2nd Year,93.2,90.5,93.9,87.4,91.7,80.3,89.4,57.7,Achievable target,77.9,Pass,True,None
+3rd Year,74.5,67.9,69.9,80.8,73.7,66.8,68.2,84.9,Borderline,96.3,Pass,True,None
+3rd Year,63.9,78.2,85.8,67.7,66.8,67.0,75.5,86.9,Borderline,71.5,Fail,True,None
+3rd Year,71.8,89.9,67.0,65.3,81.6,84.6,71.8,73.3,Achievable target,87.5,Pass,True,None
+2nd Year,66.1,89.9,84.2,76.6,82.0,74.4,72.7,61.3,Achievable target,82.1,Pass,True,None
+1st Year,73.3,64.0,93.8,64.0,96.4,72.5,89.3,50.4,Achievable target,57.6,Pass,True,None
+1st Year,65.9,66.0,87.4,72.0,77.4,80.4,77.3,57.6,Achievable target,92.8,Pass,True,None
+3rd Year,63.0,84.2,67.3,74.8,77.7,77.8,66.1,84.3,Borderline,85.9,Pass,False,Ambiguity
+4th Year,74.6,60.4,79.6,77.1,73.2,61.4,68.2,91.5,Cannot pass,70.6,Fail,True,None
+2nd Year,79.3,76.6,89.6,74.0,77.2,74.4,74.3,75.7,Borderline,65.8,Fail,False,Ambiguity
+2nd Year,76.6,93.1,75.9,89.2,72.5,78.6,87.8,57.5,Achievable target,68.3,Pass,True,None
+1st Year,64.3,93.4,61.9,64.6,77.8,81.9,71.0,53.0,Achievable target,64.9,Pass,True,None
+4th Year,65.5,79.9,87.4,87.1,81.3,83.5,88.6,53.0,Achievable target,50.0,Fail,False,Overperformance
+3rd Year,61.9,75.1,68.1,70.0,96.4,78.9,82.0,54.8,Achievable target,55.5,Pass,True,None
+3rd Year,69.2,87.0,94.4,83.5,60.8,82.1,70.5,68.4,Achievable target,94.4,Pass,True,None
+4th Year,79.1,68.4,75.1,72.3,66.0,60.3,66.7,92.5,Cannot pass,71.7,Fail,True,None
+3rd Year,82.7,63.2,89.3,92.6,99.1,74.8,74.8,62.8,Achievable target,67.5,Pass,True,None
+3rd Year,71.2,67.5,67.7,69.5,66.2,66.0,61.4,95.3,Cannot pass,97.8,Pass,False,Underperformance
+4th Year,84.4,69.6,66.3,82.0,82.1,72.4,89.5,52.2,Achievable target,99.6,Pass,True,None
+2nd Year,99.5,72.0,98.5,87.6,78.3,71.5,88.9,57.3,Achievable target,100.0,Pass,True,None
+2nd Year,75.5,83.9,83.0,76.9,79.5,77.5,72.8,62.9,Achievable target,97.0,Pass,True,None
+1st Year,92.0,95.0,98.9,76.8,95.4,89.6,89.6,66.8,Achievable target,95.8,Pass,True,None
+4th Year,81.0,90.8,92.9,63.0,98.9,90.0,84.4,65.4,Achievable target,81.0,Pass,True,None
+4th Year,79.9,70.9,61.0,77.7,70.6,78.7,77.4,51.8,Achievable target,95.3,Pass,True,None
+4th Year,86.9,70.0,67.9,83.2,98.1,82.9,71.5,58.6,Achievable target,86.4,Pass,True,None
+4th Year,67.7,73.8,69.3,68.8,96.4,70.4,75.8,58.1,Achievable target,83.3,Pass,True,None
+4th Year,84.9,79.9,77.7,62.1,70.7,71.1,80.4,53.1,Achievable target,66.6,Pass,True,None
+3rd Year,77.1,84.6,91.4,92.5,92.2,87.2,82.2,63.7,Achievable target,83.0,Pass,True,None
+2nd Year,63.6,63.4,77.3,89.8,74.9,83.7,79.5,53.1,Achievable target,55.9,Pass,True,None
+4th Year,72.4,98.0,73.7,90.6,67.7,80.2,70.4,74.0,Achievable target,78.0,Pass,True,None
+1st Year,67.4,83.8,87.0,69.4,64.8,89.2,71.6,71.4,Achievable target,78.4,Pass,True,None
+4th Year,86.3,81.3,98.5,71.0,68.2,80.1,70.4,69.9,Achievable target,95.2,Pass,True,None
+2nd Year,89.6,88.5,93.5,64.6,83.8,73.5,83.4,57.8,Achievable target,61.9,Pass,True,None
+4th Year,88.3,89.4,70.2,63.8,62.4,83.7,84.3,58.0,Achievable target,67.9,Pass,True,None
+1st Year,85.3,94.9,77.7,87.8,96.1,78.7,72.0,51.1,Achievable target,90.0,Pass,True,None
+4th Year,61.2,67.0,77.0,77.3,76.4,71.5,71.1,93.0,Cannot pass,56.2,Fail,True,None
+3rd Year,96.7,80.5,80.4,76.5,78.6,81.4,81.0,67.3,Achievable target,93.9,Pass,True,None
+3rd Year,62.1,68.9,80.6,61.8,76.0,72.4,83.5,71.0,Achievable target,96.1,Pass,True,None
+4th Year,81.8,79.4,96.5,80.1,75.5,85.6,77.2,54.3,Achievable target,68.9,Pass,True,None
+3rd Year,70.4,83.0,84.9,97.1,84.6,78.5,87.0,61.9,Achievable target,89.7,Pass,True,None
+2nd Year,99.1,78.5,88.8,77.0,75.2,86.7,85.1,55.5,Achievable target,76.0,Pass,True,None
+2nd Year,63.4,85.4,68.1,98.7,74.9,76.1,78.1,73.6,Achievable target,94.2,Pass,True,None
+1st Year,98.1,69.5,69.8,97.0,64.6,76.2,78.7,64.7,Achievable target,66.6,Pass,True,None
+4th Year,78.1,63.9,86.4,60.1,74.2,84.3,77.3,65.2,Achievable target,93.0,Pass,True,None
+4th Year,75.3,81.1,98.7,92.7,92.1,79.2,75.6,53.3,Achievable target,65.0,Pass,True,None
+1st Year,80.2,78.8,79.8,66.6,90.1,70.2,88.7,57.7,Achievable target,71.7,Pass,True,None
+1st Year,70.0,74.6,61.7,68.9,65.5,60.8,69.9,92.1,Cannot pass,96.1,Pass,False,Underperformance
+2nd Year,90.0,95.1,77.4,85.6,81.4,81.8,79.1,71.8,Achievable target,85.4,Pass,True,None
+4th Year,72.7,82.8,96.5,72.2,97.7,73.9,83.6,60.4,Achievable target,99.3,Pass,True,None
+1st Year,61.0,70.4,70.5,70.2,78.6,62.8,65.9,92.9,Cannot pass,66.4,Fail,True,None
+3rd Year,74.0,64.7,77.5,78.7,76.9,74.8,70.9,80.8,Borderline,73.5,Fail,True,None
+3rd Year,66.7,72.5,91.4,88.5,85.6,86.2,89.2,56.6,Achievable target,72.2,Pass,True,None
+1st Year,86.3,94.0,89.1,64.2,81.2,89.0,70.0,55.7,Achievable target,77.5,Pass,True,None
+4th Year,68.1,76.8,70.5,76.8,75.2,67.1,61.0,90.7,Cannot pass,95.3,Pass,False,Underperformance
+4th Year,60.4,80.5,66.2,65.1,75.2,79.5,72.6,67.7,Achievable target,50.9,Fail,False,Overperformance
+3rd Year,85.4,99.2,88.3,70.9,86.5,87.7,88.9,57.7,Achievable target,66.6,Pass,True,None
+3rd Year,71.7,73.1,63.0,75.3,73.0,71.3,64.5,99.6,Cannot pass,97.5,Fail,True,None
+4th Year,72.5,68.1,65.1,70.8,73.2,67.0,63.7,90.9,Cannot pass,92.3,Pass,False,Underperformance
+2nd Year,62.9,61.9,66.1,74.7,69.1,66.3,62.0,97.4,Cannot pass,96.8,Fail,True,None
+1st Year,92.0,87.1,84.8,64.8,90.3,80.0,88.0,54.1,Achievable target,99.3,Pass,True,None
+2nd Year,67.3,78.5,95.0,63.0,92.3,80.7,72.8,70.5,Achievable target,73.4,Pass,True,None
+3rd Year,99.0,81.3,64.9,61.0,97.2,73.0,79.0,68.4,Achievable target,98.4,Pass,True,None
+3rd Year,60.5,88.8,87.3,81.5,70.7,89.4,87.2,65.4,Achievable target,69.3,Pass,True,None
+1st Year,89.7,75.6,96.1,68.3,94.8,72.6,78.4,57.4,Achievable target,92.2,Pass,True,None
+2nd Year,92.4,95.3,61.0,89.5,73.3,87.3,89.5,72.3,Achievable target,94.5,Pass,True,None
+4th Year,61.4,92.5,85.2,87.1,87.9,84.7,74.8,65.5,Achievable target,74.5,Pass,True,None
+1st Year,71.3,91.4,79.9,84.4,91.1,80.2,82.4,70.0,Achievable target,99.2,Pass,True,None
+4th Year,88.2,92.5,75.4,86.5,92.8,70.9,84.9,73.5,Achievable target,86.6,Pass,True,None
+3rd Year,72.2,99.5,84.6,99.6,77.7,81.9,70.5,53.5,Achievable target,55.6,Pass,True,None
+4th Year,62.5,71.4,60.8,77.2,68.0,67.8,61.7,98.6,Cannot pass,94.5,Fail,True,None
+4th Year,89.9,60.7,73.5,79.5,86.9,72.7,65.8,81.7,Borderline,94.6,Pass,False,Ambiguity
+4th Year,89.0,78.9,76.8,70.4,66.2,65.4,76.1,88.8,Borderline,92.9,Pass,True,None
+4th Year,68.0,89.4,63.8,86.6,68.3,74.9,89.9,59.3,Achievable target,98.4,Pass,True,None
+3rd Year,68.6,90.6,97.0,70.2,98.5,82.2,81.3,60.7,Achievable target,76.3,Pass,True,None
+2nd Year,89.3,64.7,96.0,73.4,77.2,85.0,87.5,62.6,Achievable target,72.4,Pass,True,None
+3rd Year,86.2,82.9,78.9,66.9,76.1,87.6,75.3,64.8,Achievable target,88.8,Pass,True,None
+2nd Year,72.6,74.7,70.8,62.4,77.6,66.8,72.0,98.0,Cannot pass,79.1,Fail,True,None
+4th Year,68.7,88.0,90.7,66.7,84.3,83.4,81.3,68.0,Achievable target,71.7,Pass,True,None
+2nd Year,80.0,61.8,65.5,73.3,78.9,74.0,80.2,61.0,Achievable target,84.6,Pass,True,None
+1st Year,70.4,76.7,75.5,61.4,88.3,83.1,89.9,63.7,Achievable target,70.6,Pass,True,None
+4th Year,84.4,88.3,99.2,60.1,61.0,79.9,73.6,65.0,Achievable target,69.1,Pass,True,None
+4th Year,70.9,79.0,62.9,64.3,71.4,61.4,65.5,99.9,Cannot pass,88.6,Fail,True,None
+3rd Year,95.6,63.5,78.9,89.7,98.4,79.3,71.6,51.9,Achievable target,82.4,Pass,True,None
+3rd Year,71.2,95.3,61.4,84.8,69.8,74.3,73.7,57.1,Achievable target,74.8,Pass,True,None
+2nd Year,77.9,78.0,71.8,72.3,79.9,68.5,61.4,90.5,Cannot pass,79.8,Fail,True,None
+4th Year,86.5,81.6,86.1,73.9,67.1,77.5,83.7,62.9,Achievable target,82.5,Pass,True,None
+1st Year,65.3,62.8,75.3,89.2,64.1,89.8,78.4,57.5,Achievable target,94.9,Pass,True,None
+2nd Year,63.8,98.9,90.9,81.3,85.1,76.4,71.6,55.1,Achievable target,83.4,Pass,True,None
+4th Year,79.5,63.5,78.1,70.3,68.7,61.5,67.6,91.1,Cannot pass,82.8,Fail,True,None
+2nd Year,88.6,88.1,90.0,69.8,89.6,88.2,84.9,72.8,Achievable target,68.7,Fail,False,Overperformance
+1st Year,64.7,65.2,60.7,73.9,87.6,78.3,88.3,53.3,Achievable target,73.9,Pass,True,None
+3rd Year,96.0,76.3,74.5,86.3,63.6,82.0,87.3,72.6,Achievable target,92.4,Pass,True,None
+2nd Year,62.4,62.7,61.3,73.2,80.6,70.1,84.2,56.7,Achievable target,77.7,Pass,True,None
+3rd Year,74.1,98.8,71.2,61.2,99.3,86.0,87.8,65.0,Achievable target,94.5,Pass,True,None
+4th Year,65.9,78.2,64.9,79.6,69.2,89.8,80.2,72.6,Achievable target,73.4,Pass,True,None
+2nd Year,74.6,76.5,79.9,80.0,70.3,68.3,75.5,82.3,Borderline,83.4,Pass,True,None
+2nd Year,68.0,73.2,73.1,61.5,78.8,72.0,61.6,92.1,Cannot pass,79.6,Fail,True,None
+3rd Year,70.0,62.7,70.3,64.3,60.1,78.9,75.3,59.3,Achievable target,89.1,Pass,True,None
+3rd Year,70.3,92.3,90.5,67.3,87.2,72.0,72.6,58.1,Achievable target,61.8,Pass,True,None
+2nd Year,82.3,84.5,69.1,63.6,78.5,70.4,70.5,56.3,Achievable target,93.5,Pass,True,None
+2nd Year,76.5,71.0,82.3,83.7,89.4,89.7,80.4,54.2,Achievable target,85.3,Pass,True,None
+2nd Year,96.9,74.0,67.3,65.7,86.3,75.5,85.2,51.7,Achievable target,87.5,Pass,True,None
+1st Year,77.9,99.9,71.4,96.7,79.6,75.2,75.2,52.9,Achievable target,93.1,Pass,True,None
+1st Year,60.3,86.2,87.5,72.6,74.5,81.6,72.4,53.7,Achievable target,83.9,Pass,True,None
+3rd Year,83.3,99.5,63.9,80.9,60.3,85.0,70.1,64.5,Achievable target,64.2,Fail,False,Overperformance
+2nd Year,71.0,76.3,94.5,62.2,81.3,72.1,74.3,66.8,Achievable target,70.6,Pass,True,None
+3rd Year,74.9,99.6,72.1,79.4,91.6,70.8,73.1,53.4,Achievable target,80.9,Pass,True,None
+2nd Year,76.5,88.7,64.0,90.8,60.2,82.8,71.0,63.2,Achievable target,97.4,Pass,True,None
+2nd Year,85.9,96.3,93.1,62.9,66.6,78.5,80.9,57.4,Achievable target,89.3,Pass,True,None
+4th Year,66.3,68.8,89.9,91.9,94.0,86.4,70.6,57.1,Achievable target,84.3,Pass,True,None
+3rd Year,63.4,77.8,74.1,83.4,78.6,81.0,72.7,64.9,Achievable target,79.9,Pass,True,None
+4th Year,94.5,95.2,89.1,95.7,79.3,85.6,82.2,61.7,Achievable target,95.7,Pass,True,None
+4th Year,89.8,60.7,76.1,61.4,82.0,76.3,89.6,69.8,Achievable target,93.7,Pass,True,None
+2nd Year,64.4,82.1,85.5,82.4,84.0,69.3,69.9,83.8,Borderline,76.8,Fail,True,None
+3rd Year,94.9,84.2,64.2,62.0,97.9,87.9,87.1,69.2,Achievable target,98.8,Pass,True,None
+1st Year,73.0,60.2,87.4,73.7,89.0,76.2,80.1,64.8,Achievable target,65.8,Pass,True,None
+1st Year,75.4,67.1,69.9,69.6,79.5,63.9,61.5,96.1,Cannot pass,79.3,Fail,True,None
+2nd Year,97.3,96.1,82.0,99.9,93.8,80.7,82.0,59.9,Achievable target,85.3,Pass,True,None
+1st Year,82.9,74.3,62.9,86.4,61.5,67.7,68.2,86.1,Borderline,52.6,Fail,True,None
+1st Year,66.3,72.8,76.5,63.3,76.1,69.8,65.6,96.5,Cannot pass,59.0,Fail,True,None
+2nd Year,79.7,98.8,84.0,74.5,79.2,70.6,85.3,60.5,Achievable target,70.7,Pass,True,None
+1st Year,65.2,75.7,62.2,78.9,61.5,71.2,70.4,93.4,Cannot pass,76.5,Fail,True,None
+2nd Year,68.1,66.0,74.2,77.4,70.5,61.0,60.8,96.7,Cannot pass,62.1,Fail,True,None
+2nd Year,74.4,85.4,98.2,61.9,71.7,77.1,71.1,65.3,Achievable target,68.0,Pass,True,None
+2nd Year,68.1,74.8,62.0,76.1,63.0,68.4,61.2,95.9,Cannot pass,67.5,Fail,True,None
+4th Year,61.3,97.9,64.4,60.8,72.5,73.0,83.6,53.6,Achievable target,85.6,Pass,True,None
+1st Year,95.4,90.9,71.4,66.7,71.8,73.8,78.8,72.1,Achievable target,91.3,Pass,True,None
+2nd Year,66.2,68.2,71.5,63.3,64.1,64.1,69.8,96.3,Cannot pass,93.8,Fail,True,None
+4th Year,69.1,76.3,98.8,97.0,98.0,79.5,73.3,55.3,Achievable target,85.3,Pass,True,None
+3rd Year,68.1,70.4,60.1,69.0,76.7,61.4,71.6,91.3,Cannot pass,68.5,Fail,True,None
+4th Year,61.1,97.2,93.6,86.0,91.7,89.9,77.5,53.3,Achievable target,66.7,Pass,True,None
+4th Year,89.4,86.4,71.4,86.6,84.8,85.9,89.2,52.2,Achievable target,97.7,Pass,True,None
+3rd Year,85.7,91.4,97.1,63.9,62.9,86.9,80.3,50.9,Achievable target,60.7,Pass,True,None
+4th Year,62.3,84.7,81.2,89.4,93.4,86.4,85.9,51.9,Achievable target,62.3,Pass,True,None
+1st Year,80.5,90.0,66.4,61.2,93.9,83.4,78.1,66.3,Achievable target,81.1,Pass,True,None
+4th Year,85.2,88.5,99.2,93.9,89.5,71.0,70.2,64.3,Achievable target,84.1,Pass,True,None
+1st Year,87.1,83.7,81.1,72.3,68.8,76.9,72.2,73.6,Achievable target,75.0,Pass,True,None
+2nd Year,98.3,68.1,87.5,65.3,86.0,78.8,70.0,53.8,Achievable target,96.9,Pass,True,None
+1st Year,71.3,67.3,89.6,60.1,81.9,88.7,76.1,51.6,Achievable target,53.8,Pass,True,None
+4th Year,65.5,68.0,95.4,81.0,85.2,71.2,75.6,69.3,Achievable target,93.7,Pass,True,None
+3rd Year,61.7,65.0,70.9,66.8,67.9,69.6,71.4,96.2,Cannot pass,66.7,Fail,True,None
+2nd Year,88.9,68.4,69.3,83.5,82.1,87.3,74.6,61.2,Achievable target,92.8,Pass,True,None
+1st Year,91.4,79.4,64.6,95.8,88.9,88.5,73.5,64.2,Achievable target,75.9,Pass,True,None
+2nd Year,97.3,94.2,95.2,89.2,71.0,84.9,72.5,70.3,Achievable target,71.0,Pass,True,None
+4th Year,95.6,81.8,85.7,72.1,69.8,82.4,70.6,69.4,Achievable target,81.8,Pass,True,None
+1st Year,72.5,64.2,68.4,77.8,72.7,65.0,65.8,94.6,Cannot pass,57.2,Fail,True,None
+4th Year,75.6,81.1,71.3,87.9,67.8,89.8,85.2,70.6,Achievable target,58.1,Fail,False,Overperformance
+2nd Year,70.1,78.7,97.4,85.6,96.9,87.9,83.9,56.6,Achievable target,75.1,Pass,True,None
+3rd Year,87.8,67.0,76.2,62.3,80.8,70.6,69.7,79.5,Borderline,74.3,Fail,False,Ambiguity
+3rd Year,75.9,87.6,62.4,92.6,79.1,81.2,81.4,65.1,Achievable target,80.8,Pass,True,None
+3rd Year,65.3,72.9,67.6,62.7,67.8,67.4,69.0,77.8,Borderline,85.6,Pass,False,Ambiguity
+3rd Year,88.5,97.1,85.5,91.7,80.4,87.8,87.0,52.9,Achievable target,62.4,Pass,True,None
+4th Year,77.6,79.4,68.2,84.3,72.5,71.5,71.2,67.2,Achievable target,91.3,Pass,True,None
+1st Year,81.2,71.9,90.1,87.9,84.5,77.7,83.8,63.8,Achievable target,71.3,Pass,True,None
+1st Year,99.5,81.6,91.9,64.4,94.7,75.5,89.7,53.2,Achievable target,70.0,Pass,True,None
+2nd Year,76.9,99.5,77.4,99.9,85.1,86.2,72.5,70.0,Achievable target,77.7,Pass,True,None
+3rd Year,67.0,72.3,87.5,65.1,89.2,74.5,81.8,72.8,Achievable target,98.6,Pass,True,None
+3rd Year,66.0,61.7,71.3,72.6,70.9,61.6,66.7,93.8,Cannot pass,88.3,Fail,True,None
+1st Year,87.1,63.8,79.7,71.0,78.4,69.0,71.1,85.0,Borderline,92.2,Pass,True,None
+1st Year,99.3,93.8,64.1,96.4,79.3,72.7,84.5,63.7,Achievable target,79.6,Pass,True,None
+4th Year,93.0,88.8,75.8,97.6,82.9,85.5,82.2,62.9,Achievable target,86.7,Pass,True,None
+1st Year,87.0,88.1,77.1,64.2,91.7,85.3,81.5,63.2,Achievable target,81.8,Pass,True,None
+2nd Year,93.4,78.9,86.2,95.7,76.7,75.3,89.1,61.8,Achievable target,88.1,Pass,True,None
+2nd Year,66.9,76.1,72.6,75.6,78.4,74.3,77.1,51.6,Achievable target,91.1,Pass,True,None
+2nd Year,67.3,90.4,70.4,96.1,76.4,73.7,71.2,65.0,Achievable target,59.3,Fail,False,Overperformance
+1st Year,69.6,85.7,96.7,69.8,61.6,72.3,76.9,71.3,Achievable target,82.2,Pass,True,None
+4th Year,94.4,99.6,72.2,84.8,84.4,79.0,78.9,67.8,Achievable target,98.3,Pass,True,None
+3rd Year,79.1,95.9,64.9,65.4,81.4,74.4,75.2,67.4,Achievable target,51.6,Fail,False,Overperformance
+3rd Year,65.1,86.5,83.6,64.3,60.4,86.0,88.7,70.5,Achievable target,56.4,Fail,False,Overperformance
+1st Year,76.4,66.6,68.3,61.8,61.1,80.1,85.6,65.3,Achievable target,88.7,Pass,True,None
+2nd Year,75.2,81.3,74.4,70.5,80.5,81.0,85.5,61.9,Achievable target,65.7,Pass,True,None
+3rd Year,68.0,60.8,78.6,64.7,78.7,67.2,65.8,99.3,Cannot pass,99.4,Pass,False,Underperformance
+3rd Year,71.4,75.5,66.5,82.9,98.6,85.0,83.8,70.6,Achievable target,89.6,Pass,True,None
+2nd Year,78.5,76.2,83.8,80.8,61.5,72.4,77.9,83.0,Borderline,57.1,Fail,True,None
+2nd Year,60.4,76.8,64.0,80.8,84.9,74.1,83.7,66.8,Achievable target,80.7,Pass,True,None
+2nd Year,61.0,72.5,87.1,98.3,75.9,89.3,72.2,67.2,Achievable target,69.7,Pass,True,None
+2nd Year,70.5,83.4,95.9,76.0,68.8,74.9,81.2,73.9,Achievable target,87.2,Pass,True,None
+1st Year,64.8,83.5,96.5,86.2,67.6,72.6,84.9,66.9,Achievable target,65.5,Fail,False,Overperformance
+3rd Year,69.8,76.5,87.3,67.2,67.0,77.2,78.6,64.6,Achievable target,78.1,Pass,True,None
+3rd Year,71.3,72.1,60.6,79.5,79.9,60.1,62.1,94.9,Cannot pass,77.5,Fail,True,None
+4th Year,95.4,86.2,93.3,84.6,97.6,81.7,84.5,56.7,Achievable target,86.6,Pass,True,None
+2nd Year,77.2,76.9,73.1,69.8,76.4,76.4,72.7,84.2,Borderline,69.0,Fail,True,None
+1st Year,77.4,70.9,79.4,75.6,61.7,69.7,61.7,91.0,Cannot pass,62.8,Fail,True,None
+3rd Year,67.3,61.8,63.6,75.4,65.2,61.9,63.4,94.8,Cannot pass,61.4,Fail,True,None
+1st Year,78.1,69.4,68.7,77.0,75.1,74.1,87.9,53.8,Achievable target,92.7,Pass,True,None
+1st Year,87.4,74.1,89.0,70.1,61.4,78.2,80.5,64.9,Achievable target,66.9,Pass,True,None
+1st Year,67.4,65.3,78.1,76.0,75.8,63.3,66.0,98.6,Cannot pass,97.4,Fail,True,None
+3rd Year,81.5,61.5,86.3,76.9,80.6,72.3,73.4,60.1,Achievable target,60.9,Pass,True,None
+2nd Year,93.0,75.9,64.1,80.5,86.5,79.3,83.5,70.2,Achievable target,81.4,Pass,True,None
+3rd Year,92.8,90.3,93.7,62.6,78.8,76.5,88.0,52.9,Achievable target,93.4,Pass,True,None
+4th Year,87.7,85.0,96.1,88.8,61.7,73.1,73.6,58.7,Achievable target,88.4,Pass,True,None
+4th Year,62.5,70.3,62.0,70.0,61.0,70.5,66.8,95.5,Cannot pass,51.0,Fail,True,None
+1st Year,86.3,64.7,94.5,87.8,60.2,85.1,74.1,60.7,Achievable target,53.3,Fail,False,Overperformance
+4th Year,65.5,81.7,92.0,94.5,72.4,80.8,74.1,66.9,Achievable target,84.2,Pass,True,None
+3rd Year,62.6,99.5,85.6,94.5,70.4,76.0,72.2,67.1,Achievable target,96.5,Pass,True,None
+2nd Year,75.0,60.2,68.8,70.5,60.1,64.6,62.1,93.2,Cannot pass,93.8,Pass,False,Underperformance
+4th Year,99.9,92.4,98.7,99.5,86.7,73.5,84.3,67.0,Achievable target,85.1,Pass,True,None
+2nd Year,67.7,70.8,64.2,74.0,66.9,60.4,70.0,98.1,Cannot pass,99.6,Pass,False,Underperformance
+2nd Year,63.9,68.0,78.0,89.3,69.5,65.2,70.4,78.1,Borderline,50.5,Fail,True,None
+2nd Year,62.5,74.5,75.8,60.7,64.7,63.7,66.6,94.5,Cannot pass,83.9,Fail,True,None
+2nd Year,73.8,70.0,80.3,81.1,67.7,67.4,71.1,85.5,Borderline,50.8,Fail,True,None
+2nd Year,97.4,69.0,97.9,80.8,71.4,76.1,73.2,51.9,Achievable target,61.3,Pass,True,None
+2nd Year,78.3,71.4,76.5,71.2,77.9,71.6,65.2,92.1,Cannot pass,80.4,Fail,True,None
+4th Year,91.3,76.2,67.9,72.1,61.5,83.9,87.8,58.0,Achievable target,88.5,Pass,True,None
+1st Year,67.1,93.1,84.1,61.1,68.0,73.4,83.5,71.9,Achievable target,82.7,Pass,True,None
+3rd Year,93.3,73.1,78.1,69.3,97.7,88.5,77.9,53.3,Achievable target,89.3,Pass,True,None
+4th Year,66.9,96.5,73.7,74.2,90.9,80.5,76.3,67.3,Achievable target,88.3,Pass,True,None
+4th Year,88.5,98.4,93.3,86.9,89.4,72.6,75.9,69.1,Achievable target,93.8,Pass,True,None
+4th Year,98.3,64.4,71.0,87.9,79.9,88.0,75.8,71.0,Achievable target,86.1,Pass,True,None
+4th Year,77.5,71.1,76.6,78.4,70.0,70.0,68.2,97.1,Cannot pass,69.9,Fail,True,None
+1st Year,63.0,92.7,61.9,60.3,65.5,80.5,86.8,65.1,Achievable target,67.5,Pass,True,None
+3rd Year,63.2,86.5,88.8,82.9,69.5,69.2,69.7,82.5,Borderline,89.4,Pass,True,None
+1st Year,83.3,80.9,97.4,68.2,88.6,82.4,78.4,55.7,Achievable target,73.2,Pass,True,None
+3rd Year,78.9,66.2,73.6,78.9,77.3,65.5,70.5,97.5,Cannot pass,99.3,Pass,False,Underperformance
+4th Year,90.0,94.9,71.6,61.5,71.9,85.8,73.7,64.5,Achievable target,97.5,Pass,True,None
+3rd Year,77.0,79.3,62.4,67.5,72.4,68.4,65.5,90.4,Cannot pass,51.9,Fail,True,None
+1st Year,94.4,95.7,87.8,97.2,84.9,72.7,86.1,60.9,Achievable target,77.5,Pass,True,None
+4th Year,60.3,95.3,77.6,69.2,80.6,85.9,87.7,56.7,Achievable target,63.2,Pass,True,None
+2nd Year,62.9,87.5,89.6,81.3,76.1,75.3,72.5,76.5,Borderline,95.9,Pass,False,Ambiguity
+3rd Year,81.3,80.1,66.7,97.7,66.2,72.5,76.1,65.8,Achievable target,90.4,Pass,True,None
+2nd Year,85.8,71.4,77.4,73.4,92.2,83.4,70.9,68.2,Achievable target,69.6,Pass,True,None
+2nd Year,67.8,76.6,77.2,75.7,68.5,61.1,67.1,97.5,Cannot pass,64.3,Fail,True,None
+2nd Year,75.8,92.7,91.3,81.2,62.6,78.1,84.0,70.1,Achievable target,60.8,Fail,False,Overperformance
+4th Year,89.1,75.2,77.3,75.5,64.9,72.7,66.6,77.9,Borderline,76.2,Fail,True,None
+3rd Year,98.3,61.6,61.2,69.9,93.6,74.5,71.4,64.9,Achievable target,73.3,Pass,True,None
+3rd Year,74.6,80.0,68.4,88.0,74.9,79.4,82.3,70.5,Achievable target,78.7,Pass,True,None
+1st Year,86.2,87.4,61.4,71.3,78.0,76.6,65.4,82.4,Borderline,85.2,Pass,True,None
+3rd Year,99.5,62.8,95.4,99.7,65.0,77.7,76.2,72.4,Achievable target,76.9,Pass,True,None
+3rd Year,76.7,72.8,61.9,61.6,62.1,75.6,77.0,67.9,Achievable target,53.8,Fail,False,Overperformance
+3rd Year,78.6,64.8,61.7,71.4,60.9,62.3,62.4,99.9,Cannot pass,74.1,Fail,True,None
+2nd Year,77.3,92.3,72.4,87.4,65.3,72.4,79.8,66.0,Achievable target,94.3,Pass,True,None
+2nd Year,62.9,89.4,79.6,60.8,96.3,84.8,74.7,64.8,Achievable target,73.3,Pass,True,None
+4th Year,78.6,75.0,76.1,71.1,79.0,70.4,69.4,99.3,Cannot pass,64.1,Fail,True,None
+2nd Year,89.1,90.6,95.2,76.6,76.5,76.4,87.6,60.6,Achievable target,97.4,Pass,True,None
+1st Year,74.9,64.4,61.5,63.1,66.7,71.6,69.6,94.6,Cannot pass,82.7,Fail,True,None
+2nd Year,96.4,63.4,83.9,81.7,70.3,75.1,85.3,50.1,Achievable target,87.2,Pass,True,None
+3rd Year,61.3,97.2,72.6,98.5,83.5,88.0,81.3,68.1,Achievable target,90.8,Pass,True,None
+4th Year,73.3,69.5,89.8,96.8,95.9,70.8,87.8,50.5,Achievable target,91.0,Pass,True,None
+2nd Year,68.6,64.1,61.8,78.4,67.6,66.9,68.3,91.2,Cannot pass,61.3,Fail,True,None
+2nd Year,96.0,72.7,78.0,84.7,72.2,72.0,82.4,64.0,Achievable target,84.4,Pass,True,None
+1st Year,86.5,84.6,90.6,81.7,61.7,88.4,83.5,61.6,Achievable target,85.4,Pass,True,None
+2nd Year,88.0,64.2,99.7,61.2,97.2,73.4,88.9,57.8,Achievable target,53.0,Fail,False,Overperformance
+3rd Year,62.7,60.7,96.5,78.0,80.4,89.6,83.3,67.8,Achievable target,84.0,Pass,True,None
+2nd Year,80.9,76.5,97.5,84.4,61.5,74.1,82.8,54.3,Achievable target,77.1,Pass,True,None
+1st Year,97.9,75.6,73.8,89.7,98.7,87.9,73.4,62.8,Achievable target,57.6,Fail,False,Overperformance
+1st Year,72.3,92.9,79.6,81.2,88.0,73.5,84.6,70.8,Achievable target,61.4,Fail,False,Overperformance
+4th Year,63.1,72.4,70.9,79.4,71.4,60.1,69.2,90.4,Cannot pass,79.6,Fail,True,None
+2nd Year,65.0,62.6,61.2,69.4,79.4,71.6,71.7,68.3,Achievable target,50.2,Fail,False,Overperformance
+4th Year,84.1,79.5,84.7,99.0,74.4,87.4,89.3,66.2,Achievable target,89.5,Pass,True,None
+1st Year,64.0,93.3,65.5,86.2,95.4,73.5,75.2,58.1,Achievable target,66.9,Pass,True,None
+1st Year,63.7,60.6,73.2,69.1,65.3,62.9,70.7,99.3,Cannot pass,54.1,Fail,True,None
+2nd Year,79.8,60.1,69.7,73.8,62.3,63.6,63.7,90.1,Cannot pass,74.2,Fail,True,None
+2nd Year,88.9,85.7,74.5,73.2,76.7,66.9,68.9,89.0,Borderline,57.5,Fail,False,Ambiguity
+3rd Year,60.1,77.1,86.9,86.0,94.2,83.6,87.7,57.8,Achievable target,93.4,Pass,True,None
+4th Year,71.5,78.2,66.6,76.0,79.5,63.8,62.3,92.4,Cannot pass,63.3,Fail,True,None
+1st Year,66.0,66.3,66.9,61.6,75.5,70.0,65.0,95.0,Cannot pass,52.1,Fail,True,None
+4th Year,79.6,66.7,91.8,66.8,88.8,89.3,82.8,61.7,Achievable target,96.8,Pass,True,None
+2nd Year,67.8,73.5,87.6,67.2,81.9,84.7,81.8,66.1,Achievable target,94.3,Pass,True,None
+3rd Year,80.7,86.3,65.8,69.5,92.8,75.8,89.4,63.4,Achievable target,65.4,Pass,True,None
+2nd Year,78.9,77.6,74.6,68.6,65.6,71.4,60.5,98.8,Cannot pass,65.3,Fail,True,None
+1st Year,76.0,86.2,71.5,98.5,62.3,84.5,88.6,68.6,Achievable target,74.1,Pass,True,None
+1st Year,62.5,95.7,76.7,78.9,79.8,78.4,76.3,72.5,Achievable target,82.0,Pass,True,None
+2nd Year,76.1,98.6,75.3,61.5,68.0,82.3,82.7,59.0,Achievable target,59.6,Pass,True,None
+1st Year,89.8,60.8,66.7,80.9,66.6,68.2,67.0,87.3,Borderline,92.9,Pass,False,Ambiguity
+3rd Year,78.0,67.0,73.1,84.7,76.2,71.8,75.0,83.5,Borderline,86.0,Pass,False,Ambiguity
+3rd Year,94.7,86.0,69.2,75.2,99.1,87.3,70.4,52.4,Achievable target,67.4,Pass,True,None
+4th Year,60.1,82.9,83.7,60.4,97.1,82.1,74.1,62.3,Achievable target,56.1,Fail,False,Overperformance
+1st Year,86.2,97.1,93.3,78.7,85.6,70.3,88.4,58.7,Achievable target,89.4,Pass,True,None
+1st Year,89.2,83.1,63.1,62.2,90.8,81.9,76.0,58.4,Achievable target,92.4,Pass,True,None
+4th Year,88.5,81.0,79.3,98.2,79.0,80.4,73.6,63.9,Achievable target,86.9,Pass,True,None
+3rd Year,64.5,78.0,60.9,68.4,81.5,70.3,83.9,54.9,Achievable target,78.5,Pass,True,None
+2nd Year,73.0,80.4,91.0,77.9,63.1,89.6,75.7,64.7,Achievable target,81.1,Pass,True,None
+1st Year,78.9,62.2,90.8,81.0,99.8,71.9,88.7,52.5,Achievable target,81.9,Pass,True,None
+2nd Year,72.6,98.2,80.7,60.4,93.3,83.5,74.6,56.0,Achievable target,60.1,Pass,True,None
+4th Year,86.7,89.8,64.6,69.9,65.5,75.6,71.1,83.1,Borderline,65.0,Fail,True,None
+2nd Year,72.9,64.6,74.1,79.2,82.8,80.1,83.9,66.0,Achievable target,80.2,Pass,True,None
+1st Year,97.6,87.6,91.6,69.6,82.1,86.8,83.2,57.4,Achievable target,98.2,Pass,True,None
+1st Year,62.6,63.8,87.1,71.4,88.9,85.8,82.9,65.8,Achievable target,96.8,Pass,True,None
+2nd Year,81.6,82.4,89.9,72.2,78.6,72.6,68.4,77.4,Borderline,85.2,Pass,True,None
+4th Year,74.4,95.8,81.5,85.5,63.4,80.9,85.8,68.5,Achievable target,89.2,Pass,True,None
+4th Year,73.6,73.5,88.8,76.2,68.5,89.3,70.3,65.7,Achievable target,83.6,Pass,True,None
+4th Year,80.0,66.8,67.8,89.6,86.9,72.2,75.5,64.5,Achievable target,70.7,Pass,True,None
+2nd Year,79.1,81.6,80.1,75.7,87.5,71.1,86.0,54.2,Achievable target,98.9,Pass,True,None
+2nd Year,90.3,94.1,64.5,62.2,98.0,74.0,77.5,72.2,Achievable target,96.4,Pass,True,None
+2nd Year,80.7,62.0,70.0,93.9,78.3,73.5,89.2,69.2,Achievable target,89.8,Pass,True,None
+1st Year,78.9,65.1,72.5,72.1,64.1,68.7,68.3,94.5,Cannot pass,64.4,Fail,True,None
+3rd Year,87.9,63.9,86.7,92.3,76.6,81.3,73.0,68.2,Achievable target,75.4,Pass,True,None
+2nd Year,87.2,66.7,62.3,74.2,79.0,77.5,89.7,72.7,Achievable target,52.7,Fail,False,Overperformance
+4th Year,67.7,93.7,92.7,93.1,64.9,71.4,79.4,68.4,Achievable target,76.3,Pass,True,None
+3rd Year,64.9,68.5,63.5,79.1,73.2,65.0,65.4,93.5,Cannot pass,67.3,Fail,True,None
+3rd Year,92.9,91.3,76.2,76.2,83.2,70.2,76.0,65.7,Achievable target,81.9,Pass,True,None
+4th Year,77.3,60.7,86.9,81.4,85.7,77.8,82.6,64.8,Achievable target,91.4,Pass,True,None
+3rd Year,64.9,64.3,67.4,62.9,66.3,65.2,62.2,90.2,Cannot pass,77.6,Fail,True,None
+1st Year,64.9,71.7,77.4,64.4,63.9,71.4,67.5,94.8,Cannot pass,71.7,Fail,True,None
+3rd Year,61.1,78.0,74.1,72.4,65.6,68.4,66.0,92.1,Cannot pass,55.8,Fail,True,None
+4th Year,97.3,91.8,70.9,64.9,87.1,76.3,77.0,59.1,Achievable target,99.2,Pass,True,None
+1st Year,88.8,81.2,67.5,89.6,77.6,75.2,70.1,75.8,Borderline,51.4,Fail,True,None
+4th Year,99.8,71.3,87.1,76.7,76.3,87.1,82.0,53.5,Achievable target,67.0,Pass,True,None
+1st Year,60.8,79.1,73.3,84.6,92.3,71.1,82.0,58.2,Achievable target,65.6,Pass,True,None
+4th Year,98.9,79.8,79.9,97.0,80.8,87.9,77.7,69.2,Achievable target,91.6,Pass,True,None
+2nd Year,72.5,66.3,61.7,68.3,69.0,65.3,66.1,98.8,Cannot pass,98.3,Fail,True,None
+2nd Year,83.9,90.9,85.0,93.7,72.0,70.8,88.6,69.0,Achievable target,86.1,Pass,True,None
+1st Year,88.0,96.2,83.0,80.6,97.6,83.3,75.3,61.8,Achievable target,78.5,Pass,True,None
+1st Year,70.9,62.1,77.7,68.3,60.0,60.3,60.5,92.3,Cannot pass,59.6,Fail,True,None
+1st Year,71.7,69.8,65.0,62.2,76.4,67.1,71.6,95.7,Cannot pass,95.2,Fail,True,None
+4th Year,75.4,65.2,79.2,69.3,79.9,65.1,68.6,92.5,Cannot pass,88.5,Fail,True,None
+1st Year,73.1,87.9,66.1,86.9,99.9,76.4,81.3,73.3,Achievable target,93.4,Pass,True,None
+4th Year,69.0,68.1,97.8,92.5,70.6,86.5,79.9,67.9,Achievable target,80.2,Pass,True,None
+4th Year,86.0,68.4,81.7,68.3,67.6,70.5,73.3,82.1,Borderline,63.4,Fail,False,Ambiguity
+1st Year,71.9,63.5,68.7,77.5,76.1,70.7,71.0,91.5,Cannot pass,81.8,Fail,True,None
+3rd Year,89.2,67.5,73.4,61.4,73.7,75.6,69.5,88.9,Borderline,60.2,Fail,False,Ambiguity
+2nd Year,76.6,73.4,82.4,85.5,60.5,86.0,90.0,54.8,Achievable target,67.5,Pass,True,None
+1st Year,77.9,82.9,60.2,73.6,69.4,85.1,88.8,67.9,Achievable target,86.6,Pass,True,None
+2nd Year,65.6,72.6,78.0,62.1,74.4,81.1,79.8,50.2,Achievable target,57.0,Pass,True,None
+1st Year,66.9,88.4,75.9,71.2,63.0,75.4,69.7,77.3,Borderline,91.7,Pass,True,None
+1st Year,80.7,99.7,72.1,72.0,68.9,89.7,81.9,70.5,Achievable target,71.1,Pass,True,None
+1st Year,68.6,69.5,61.1,77.4,79.1,71.2,64.3,96.9,Cannot pass,62.6,Fail,True,None
+3rd Year,61.2,64.1,76.3,66.6,75.1,62.4,70.7,99.1,Cannot pass,53.1,Fail,True,None
+4th Year,76.1,82.4,91.2,94.9,83.4,71.6,83.5,65.3,Achievable target,99.9,Pass,True,None
+2nd Year,73.2,68.2,62.2,64.8,81.7,75.4,73.0,88.2,Borderline,95.2,Pass,True,None
+3rd Year,66.1,64.9,89.7,67.0,87.6,77.1,73.6,85.8,Borderline,51.0,Fail,True,None
+4th Year,97.1,61.6,74.3,88.4,79.4,78.7,89.9,61.8,Achievable target,94.1,Pass,True,None
+2nd Year,66.7,97.0,88.5,71.4,98.9,77.1,79.1,70.1,Achievable target,90.8,Pass,True,None
+1st Year,93.1,61.7,99.8,80.7,75.8,80.4,79.0,67.6,Achievable target,85.7,Pass,True,None
+4th Year,97.0,69.2,85.4,63.5,72.2,80.4,84.4,68.5,Achievable target,65.6,Fail,False,Overperformance
+3rd Year,98.8,86.2,98.0,73.0,89.3,81.9,70.1,67.6,Achievable target,98.6,Pass,True,None
+4th Year,65.4,61.7,61.5,74.4,75.2,61.6,68.9,94.2,Cannot pass,50.7,Fail,True,None
+1st Year,72.9,98.8,76.2,80.6,99.5,79.1,76.3,65.8,Achievable target,84.4,Pass,True,None
+4th Year,73.1,69.4,65.8,61.9,79.3,62.4,63.2,95.7,Cannot pass,72.0,Fail,True,None
+1st Year,82.4,62.7,88.4,68.2,99.3,77.3,73.5,55.7,Achievable target,60.7,Pass,True,None
+3rd Year,72.2,62.5,71.4,66.4,65.3,69.4,69.7,91.9,Cannot pass,69.3,Fail,True,None
+3rd Year,69.4,68.4,95.6,96.6,85.3,71.8,86.5,71.1,Achievable target,93.3,Pass,True,None
+1st Year,74.4,76.3,61.5,62.5,63.6,71.9,60.2,90.5,Cannot pass,64.1,Fail,True,None
+2nd Year,91.4,74.6,97.3,68.0,99.9,76.5,75.6,54.3,Achievable target,89.4,Pass,True,None
+4th Year,62.9,68.5,69.1,72.9,68.1,68.2,62.3,97.3,Cannot pass,56.5,Fail,True,None
+1st Year,84.1,90.4,86.2,67.1,90.9,72.9,73.9,61.9,Achievable target,90.6,Pass,True,None
+3rd Year,86.9,87.7,99.1,95.3,67.5,79.0,77.4,71.2,Achievable target,73.7,Pass,True,None
+2nd Year,67.6,79.8,71.5,64.0,65.0,63.9,68.4,94.4,Cannot pass,62.7,Fail,True,None
+2nd Year,98.3,84.0,82.5,60.7,88.8,75.2,73.6,65.9,Achievable target,75.6,Pass,True,None
+4th Year,99.4,74.1,81.5,68.4,64.0,83.9,80.5,69.7,Achievable target,54.6,Fail,False,Overperformance
+4th Year,68.5,91.9,73.6,95.2,88.0,87.0,73.6,56.6,Achievable target,57.0,Pass,True,None
+1st Year,97.3,80.6,96.4,74.6,62.1,82.4,76.7,59.2,Achievable target,78.2,Pass,True,None
+4th Year,84.4,86.6,68.8,77.1,62.5,66.3,77.4,89.0,Borderline,67.2,Fail,False,Ambiguity
+4th Year,69.4,86.7,80.7,91.7,75.5,74.6,75.3,72.0,Achievable target,96.7,Pass,True,None
+3rd Year,82.3,87.4,93.7,91.0,69.2,89.8,82.8,50.8,Achievable target,66.3,Pass,True,None
+4th Year,71.1,88.2,91.8,83.1,92.0,70.1,74.3,62.9,Achievable target,76.5,Pass,True,None
+2nd Year,91.4,88.6,86.9,88.6,80.8,77.0,75.7,55.9,Achievable target,70.4,Pass,True,None
+4th Year,64.3,88.5,77.7,96.0,72.9,86.9,78.5,53.6,Achievable target,59.5,Pass,True,None
+1st Year,68.2,72.1,77.5,79.0,70.6,71.5,63.0,94.0,Cannot pass,55.0,Fail,True,None
+4th Year,71.5,77.2,83.2,86.2,78.6,81.0,70.0,60.6,Achievable target,69.0,Pass,True,None
+4th Year,78.6,76.4,63.5,68.4,83.1,70.9,67.8,87.9,Borderline,62.7,Fail,True,None
+3rd Year,76.8,95.5,74.9,83.4,78.6,74.5,87.4,52.8,Achievable target,55.3,Pass,True,None
+3rd Year,96.3,91.4,73.7,86.7,87.8,73.9,74.0,73.6,Achievable target,89.4,Pass,True,None
+4th Year,98.9,83.1,69.1,62.1,79.2,75.3,83.1,62.6,Achievable target,89.6,Pass,True,None
+1st Year,91.3,78.2,73.1,67.7,64.1,76.8,88.8,64.3,Achievable target,66.7,Pass,True,None
+1st Year,70.7,71.5,66.4,87.5,69.4,82.7,86.9,55.7,Achievable target,62.3,Pass,True,None
+2nd Year,83.0,69.7,78.9,76.3,63.8,84.5,87.6,65.8,Achievable target,77.9,Pass,True,None
+1st Year,84.4,67.1,79.7,65.8,90.7,79.8,88.6,55.2,Achievable target,84.0,Pass,True,None
+3rd Year,61.2,85.1,67.7,78.8,72.8,76.4,77.3,77.4,Borderline,69.4,Fail,False,Ambiguity
+2nd Year,74.6,79.0,75.3,74.3,69.0,64.6,71.9,95.8,Cannot pass,95.9,Pass,False,Underperformance
+1st Year,98.0,63.4,69.9,82.3,76.6,73.0,86.2,64.3,Achievable target,86.4,Pass,True,None
+2nd Year,63.9,88.5,93.1,63.3,62.5,86.5,77.2,71.3,Achievable target,85.0,Pass,True,None
+1st Year,77.9,86.3,72.1,67.9,81.5,67.6,66.2,82.5,Borderline,89.4,Pass,False,Ambiguity
+3rd Year,97.4,71.2,78.0,90.0,82.8,76.4,74.9,66.0,Achievable target,77.4,Pass,True,None
+2nd Year,70.9,76.4,73.6,77.2,72.3,69.8,70.1,94.4,Cannot pass,78.2,Fail,True,None
+4th Year,97.0,88.3,83.7,71.3,87.7,71.6,70.1,69.0,Achievable target,83.8,Pass,True,None
+4th Year,76.6,70.0,67.1,78.0,77.1,62.3,62.5,98.0,Cannot pass,71.0,Fail,True,None
+3rd Year,74.8,82.5,72.8,78.7,70.7,89.5,72.6,56.0,Achievable target,60.3,Pass,True,None
+4th Year,99.8,83.7,93.5,71.2,89.2,87.1,79.8,67.7,Achievable target,75.7,Pass,True,None
+3rd Year,88.2,65.7,64.4,81.1,74.6,71.2,73.0,51.7,Achievable target,85.7,Pass,True,None
+3rd Year,96.7,94.3,73.4,70.7,63.9,89.1,78.6,65.7,Achievable target,79.1,Pass,True,None
+4th Year,88.5,83.3,70.9,91.6,85.8,84.5,75.6,59.6,Achievable target,78.8,Pass,True,None
+4th Year,70.7,76.6,78.1,85.3,95.2,79.8,81.5,52.2,Achievable target,76.8,Pass,True,None
+2nd Year,74.5,91.2,81.2,74.9,86.0,76.6,84.8,55.0,Achievable target,51.9,Fail,False,Overperformance
+3rd Year,72.2,76.1,70.9,81.6,77.5,78.8,79.4,64.4,Achievable target,96.1,Pass,True,None
+3rd Year,88.8,86.3,81.6,75.5,81.0,85.5,74.8,61.9,Achievable target,82.9,Pass,True,None
+3rd Year,71.6,69.5,71.9,63.2,62.9,60.6,61.3,91.5,Cannot pass,60.1,Fail,True,None
+2nd Year,77.5,87.3,81.0,76.8,82.7,69.2,66.4,82.5,Borderline,62.9,Fail,False,Ambiguity
+4th Year,73.9,89.3,71.0,93.3,96.6,73.8,73.7,63.3,Achievable target,65.8,Pass,True,None
+2nd Year,80.4,74.2,79.3,84.8,67.4,88.1,72.5,53.3,Achievable target,55.4,Pass,True,None
+3rd Year,90.3,78.0,92.3,73.7,96.7,76.3,84.5,69.4,Achievable target,75.9,Pass,True,None
+3rd Year,92.5,95.0,94.1,74.4,87.1,75.3,71.0,60.2,Achievable target,64.8,Pass,True,None
+2nd Year,77.9,86.9,94.9,69.8,61.8,71.3,81.9,60.5,Achievable target,81.8,Pass,True,None
+3rd Year,81.8,73.6,61.5,68.5,63.6,67.6,75.6,81.9,Borderline,61.7,Fail,True,None
+3rd Year,68.9,66.1,67.3,71.0,77.4,70.8,70.3,92.5,Cannot pass,87.9,Fail,True,None
+1st Year,88.3,77.5,71.7,87.7,92.8,89.1,79.2,69.1,Achievable target,81.7,Pass,True,None
+4th Year,98.6,70.1,94.5,64.6,62.6,79.6,76.8,61.8,Achievable target,83.8,Pass,True,None
+4th Year,65.7,95.8,70.3,74.5,67.3,79.4,88.9,72.0,Achievable target,81.2,Pass,True,None
+4th Year,69.5,99.3,66.7,95.4,63.5,72.8,84.9,67.0,Achievable target,88.1,Pass,True,None
+2nd Year,77.6,61.1,76.9,62.5,73.4,67.5,70.8,94.7,Cannot pass,84.0,Fail,True,None
+2nd Year,97.9,86.4,98.7,89.4,79.3,78.9,73.6,58.6,Achievable target,67.7,Pass,True,None
+2nd Year,60.0,97.5,87.1,77.3,76.8,88.0,80.8,71.0,Achievable target,91.2,Pass,True,None
+1st Year,84.2,64.8,63.9,75.2,80.6,73.5,70.3,75.2,Borderline,91.4,Pass,True,None
+2nd Year,85.5,77.6,67.6,62.2,67.3,81.1,88.5,61.3,Achievable target,67.6,Pass,True,None
+1st Year,78.6,62.1,75.0,72.5,70.9,61.1,60.2,96.4,Cannot pass,73.3,Fail,True,None
+3rd Year,76.9,77.0,70.8,60.9,64.7,71.7,60.2,91.2,Cannot pass,70.8,Fail,True,None
+1st Year,84.7,62.1,86.2,60.3,75.5,75.7,85.8,56.5,Achievable target,93.6,Pass,True,None
+2nd Year,92.6,64.1,86.3,84.2,72.9,83.8,73.5,71.2,Achievable target,83.3,Pass,True,None
+3rd Year,71.6,71.5,88.6,73.9,77.7,89.1,86.1,56.2,Achievable target,77.2,Pass,True,None
+3rd Year,66.4,64.7,61.3,65.7,64.2,62.6,66.8,92.3,Cannot pass,73.7,Fail,True,None
+3rd Year,63.3,86.6,86.0,62.1,85.0,71.9,77.2,67.4,Achievable target,92.0,Pass,True,None
+3rd Year,75.7,70.0,79.2,71.2,79.1,61.7,70.5,97.2,Cannot pass,56.7,Fail,True,None
+2nd Year,68.9,63.3,66.6,63.1,61.1,65.8,66.8,97.0,Cannot pass,79.4,Fail,True,None
+3rd Year,84.7,77.3,89.1,79.3,86.5,80.4,83.8,65.4,Achievable target,70.5,Pass,True,None
+2nd Year,74.4,82.9,78.7,99.3,65.2,74.7,79.9,71.2,Achievable target,73.1,Pass,True,None
+1st Year,69.3,63.0,79.3,72.5,73.3,66.0,68.2,93.1,Cannot pass,62.4,Fail,True,None
+4th Year,81.1,84.3,98.6,97.2,90.2,88.9,73.3,66.6,Achievable target,90.4,Pass,True,None
+1st Year,81.7,65.3,73.9,77.8,85.8,75.9,89.4,57.0,Achievable target,59.7,Pass,True,None
+3rd Year,84.5,88.8,80.2,93.2,81.9,89.0,87.8,71.5,Achievable target,92.7,Pass,True,None
+2nd Year,64.1,76.8,75.1,60.5,78.1,68.0,61.7,99.6,Cannot pass,76.7,Fail,True,None
+3rd Year,73.4,72.0,73.1,64.2,95.0,87.0,81.3,71.9,Achievable target,85.8,Pass,True,None
+4th Year,69.0,87.4,93.9,86.1,94.3,81.3,89.8,68.2,Achievable target,71.2,Pass,True,None
+2nd Year,96.7,99.5,92.1,87.9,68.9,74.1,71.1,70.9,Achievable target,86.1,Pass,True,None
+1st Year,78.3,62.3,78.5,92.3,88.9,79.1,80.3,59.5,Achievable target,92.6,Pass,True,None
+3rd Year,80.8,99.1,85.9,71.5,60.9,82.9,85.2,70.3,Achievable target,80.1,Pass,True,None
+1st Year,83.8,83.7,93.4,88.0,84.7,78.5,73.6,57.5,Achievable target,92.2,Pass,True,None
+2nd Year,65.6,63.3,66.1,77.4,73.0,69.4,62.3,91.6,Cannot pass,86.4,Fail,True,None
+2nd Year,77.8,79.4,60.8,78.0,69.7,88.0,84.8,57.1,Achievable target,92.7,Pass,True,None
+2nd Year,76.0,65.9,87.5,95.7,94.4,84.4,77.7,71.3,Achievable target,93.6,Pass,True,None
+2nd Year,76.4,69.7,72.0,70.5,84.5,67.7,75.0,86.8,Borderline,98.1,Pass,False,Ambiguity
+2nd Year,77.0,80.6,76.3,90.5,72.6,86.7,89.6,61.2,Achievable target,81.4,Pass,True,None
+3rd Year,64.4,80.9,62.7,93.4,65.2,76.5,82.8,71.0,Achievable target,76.9,Pass,True,None
+1st Year,74.3,91.2,94.6,73.3,65.0,85.1,73.8,58.8,Achievable target,95.4,Pass,True,None
+2nd Year,89.8,90.7,93.8,67.6,84.2,83.5,75.0,53.3,Achievable target,93.2,Pass,True,None
+4th Year,75.1,89.0,70.0,61.6,88.3,84.7,70.4,63.4,Achievable target,83.3,Pass,True,None
+3rd Year,91.8,89.2,74.9,98.0,82.1,83.5,88.3,63.3,Achievable target,67.8,Pass,True,None
+3rd Year,85.0,78.1,90.5,67.2,60.7,74.0,78.0,66.9,Achievable target,95.5,Pass,True,None
+4th Year,90.8,69.9,80.0,87.4,73.5,83.8,73.1,73.3,Achievable target,93.6,Pass,True,None
+2nd Year,78.0,73.9,92.7,77.6,99.8,76.0,90.0,68.6,Achievable target,76.0,Pass,True,None
+1st Year,88.1,78.2,87.5,97.0,91.5,74.6,84.1,65.0,Achievable target,88.1,Pass,True,None
+3rd Year,85.1,76.2,61.4,69.6,79.5,81.9,89.4,66.5,Achievable target,65.7,Fail,False,Overperformance
+3rd Year,82.4,67.7,84.7,83.1,62.1,81.2,72.5,63.7,Achievable target,70.6,Pass,True,None
+3rd Year,76.4,90.7,80.0,99.6,88.5,70.9,87.7,69.0,Achievable target,97.6,Pass,True,None
+2nd Year,73.8,72.3,72.6,64.7,67.0,68.5,60.5,95.4,Cannot pass,93.2,Fail,True,None
+2nd Year,73.2,83.3,82.9,70.5,74.4,78.9,75.3,55.7,Achievable target,85.3,Pass,True,None
+1st Year,78.9,79.3,68.8,76.4,65.7,74.3,82.1,64.0,Achievable target,91.6,Pass,True,None
+2nd Year,60.2,95.3,88.4,64.4,71.4,72.8,84.9,53.2,Achievable target,51.3,Fail,False,Overperformance
+4th Year,82.2,67.7,86.6,75.2,89.9,76.5,83.9,54.2,Achievable target,80.3,Pass,True,None
+3rd Year,78.4,62.4,77.8,69.9,61.7,71.0,68.6,91.5,Cannot pass,61.5,Fail,True,None
+1st Year,75.0,78.1,66.3,72.5,73.0,71.8,80.6,72.6,Achievable target,88.9,Pass,True,None
+1st Year,86.3,69.0,64.3,93.8,74.7,81.6,74.3,68.3,Achievable target,86.5,Pass,True,None
+3rd Year,66.3,81.5,68.8,71.2,69.7,65.3,74.2,86.1,Borderline,61.7,Fail,True,None
+2nd Year,90.8,86.2,82.6,66.3,62.7,78.6,88.2,62.8,Achievable target,89.6,Pass,True,None
+3rd Year,64.6,96.0,67.6,61.8,77.4,78.7,89.7,62.5,Achievable target,92.7,Pass,True,None
+1st Year,66.5,67.4,76.5,68.3,72.8,66.1,62.8,98.8,Cannot pass,57.0,Fail,True,None
+4th Year,77.0,60.3,79.9,89.2,88.5,77.7,74.5,56.5,Achievable target,96.8,Pass,True,None
+3rd Year,73.1,65.1,88.1,97.9,99.9,81.2,82.9,71.9,Achievable target,74.5,Pass,True,None
+1st Year,90.5,89.0,82.4,79.2,94.8,87.5,73.8,58.0,Achievable target,98.2,Pass,True,None
+3rd Year,81.8,78.3,73.8,72.6,77.9,67.9,72.9,82.6,Borderline,90.9,Pass,True,None
+3rd Year,69.9,82.3,69.0,98.9,71.9,82.2,73.8,56.9,Achievable target,65.8,Pass,True,None
+3rd Year,98.3,95.0,92.5,83.0,87.8,88.9,86.1,73.2,Achievable target,88.3,Pass,True,None
+4th Year,89.6,91.8,73.9,97.6,97.7,74.7,79.7,61.4,Achievable target,57.4,Fail,False,Overperformance
+4th Year,79.8,87.4,76.6,93.6,79.5,89.3,80.1,52.0,Achievable target,53.5,Pass,True,None
+1st Year,69.9,62.9,70.7,75.2,91.4,85.4,75.9,53.7,Achievable target,71.7,Pass,True,None
+1st Year,89.5,61.1,79.4,65.1,63.1,83.1,75.8,68.8,Achievable target,76.7,Pass,True,None
+2nd Year,60.3,62.4,65.3,71.1,78.6,70.8,70.5,97.5,Cannot pass,56.0,Fail,True,None
+2nd Year,99.8,83.0,77.6,74.8,68.2,73.2,72.3,67.0,Achievable target,89.0,Pass,True,None
+2nd Year,73.4,83.1,86.2,91.5,79.4,86.7,80.4,66.0,Achievable target,84.0,Pass,True,None
+3rd Year,75.2,89.5,72.4,83.6,67.6,72.5,76.3,59.3,Achievable target,53.9,Fail,False,Overperformance
+3rd Year,84.5,80.4,93.9,94.1,62.5,89.8,81.7,71.6,Achievable target,99.1,Pass,True,None
+3rd Year,65.7,89.6,84.0,70.8,67.7,74.7,69.1,76.6,Borderline,87.3,Pass,True,None
+1st Year,96.3,79.1,65.9,65.1,96.1,75.8,78.7,70.2,Achievable target,85.8,Pass,True,None
+2nd Year,61.5,62.9,67.1,70.1,62.8,70.5,84.3,69.7,Achievable target,97.3,Pass,True,None
+4th Year,64.1,93.8,94.0,71.4,90.5,87.5,81.1,56.5,Achievable target,95.9,Pass,True,None
+3rd Year,74.0,62.2,69.4,78.3,65.3,64.8,60.7,90.4,Cannot pass,63.6,Fail,True,None
+3rd Year,69.6,62.3,94.3,92.4,76.2,73.8,80.3,57.7,Achievable target,63.6,Pass,True,None
+4th Year,73.9,63.9,88.9,78.1,62.7,85.7,80.4,51.1,Achievable target,85.9,Pass,True,None
+1st Year,80.8,83.2,83.0,77.8,75.6,75.2,80.2,68.5,Achievable target,87.0,Pass,True,None
+3rd Year,67.0,91.2,78.6,87.8,85.3,80.9,86.3,69.5,Achievable target,71.4,Pass,True,None
+1st Year,75.4,67.7,86.3,82.8,97.9,72.0,74.6,63.4,Achievable target,83.8,Pass,True,None
+2nd Year,80.0,83.8,81.1,99.1,99.5,79.9,72.3,72.4,Achievable target,76.0,Pass,True,None
+1st Year,63.8,73.9,75.5,72.0,64.3,60.4,68.9,92.2,Cannot pass,58.0,Fail,True,None
+3rd Year,88.5,67.7,79.6,86.5,85.1,70.5,65.3,81.1,Borderline,83.3,Pass,True,None
+1st Year,67.8,65.7,80.8,82.9,94.3,84.7,75.9,62.1,Achievable target,51.5,Fail,False,Overperformance
+4th Year,78.2,76.9,98.3,99.8,82.2,75.3,85.7,67.2,Achievable target,72.3,Pass,True,None
+1st Year,64.3,82.2,62.8,72.1,78.4,78.1,84.3,64.2,Achievable target,72.7,Pass,True,None
+3rd Year,74.1,61.4,77.4,79.4,61.5,71.1,63.0,95.8,Cannot pass,89.0,Fail,True,None
+3rd Year,63.6,74.6,60.4,69.6,98.6,72.7,80.0,73.6,Achievable target,91.7,Pass,True,None
+3rd Year,66.3,91.8,98.1,96.2,83.1,74.4,75.9,63.3,Achievable target,71.7,Pass,True,None
+4th Year,85.5,64.8,71.1,86.2,65.3,72.2,76.2,88.1,Borderline,99.1,Pass,True,None
+1st Year,87.0,95.3,80.9,69.0,63.0,82.1,89.3,70.1,Achievable target,60.3,Fail,False,Overperformance
+2nd Year,77.2,67.9,81.2,95.9,76.4,78.0,70.2,71.9,Achievable target,50.2,Fail,False,Overperformance
+1st Year,93.9,66.7,79.4,68.5,76.0,89.4,88.5,51.4,Achievable target,69.8,Pass,True,None
+3rd Year,91.9,70.9,63.9,99.2,68.9,85.6,72.9,72.8,Achievable target,67.8,Fail,False,Overperformance
+2nd Year,68.5,61.8,66.9,62.5,71.0,76.4,89.3,68.2,Achievable target,73.5,Pass,True,None
+4th Year,83.0,71.0,67.3,90.6,80.4,88.0,87.6,59.5,Achievable target,89.9,Pass,True,None
+1st Year,78.6,82.4,77.4,85.9,61.5,74.9,86.5,53.8,Achievable target,60.1,Pass,True,None
+1st Year,72.1,79.0,90.4,81.3,66.1,88.8,82.4,53.1,Achievable target,51.3,Fail,False,Overperformance
+3rd Year,65.4,62.9,60.6,88.9,79.5,89.9,83.4,60.5,Achievable target,99.6,Pass,True,None
+3rd Year,87.7,63.3,64.0,82.5,69.7,68.6,69.8,85.9,Borderline,91.7,Pass,True,None
+2nd Year,92.7,96.7,62.2,99.9,68.8,83.1,75.3,70.3,Achievable target,94.0,Pass,True,None
+1st Year,79.6,77.8,98.4,79.0,82.1,83.6,74.8,58.3,Achievable target,93.2,Pass,True,None
+1st Year,69.5,69.3,66.5,71.3,73.2,66.2,67.6,99.0,Cannot pass,99.3,Pass,False,Underperformance
+4th Year,68.7,89.9,89.4,60.4,89.0,75.8,72.9,63.8,Achievable target,59.3,Fail,False,Overperformance
+3rd Year,91.4,96.9,66.1,98.1,73.2,76.5,70.5,65.1,Achievable target,86.1,Pass,True,None
+4th Year,65.4,82.4,79.5,86.1,67.8,85.5,72.6,64.8,Achievable target,90.7,Pass,True,None
+4th Year,90.1,97.0,94.8,64.4,82.9,81.7,84.7,69.1,Achievable target,65.5,Fail,False,Overperformance
+3rd Year,89.5,62.5,86.0,75.1,71.9,69.0,70.7,88.2,Borderline,100.0,Pass,True,None
+2nd Year,85.0,91.6,67.6,72.0,78.5,83.0,78.7,61.4,Achievable target,62.2,Pass,True,None
+2nd Year,90.7,96.5,82.6,86.4,66.0,77.6,77.6,70.9,Achievable target,76.1,Pass,True,None
+4th Year,66.1,85.7,74.6,70.1,73.1,73.3,74.8,80.1,Borderline,83.3,Pass,False,Ambiguity
+4th Year,63.4,68.3,79.0,94.7,99.5,72.8,81.7,51.6,Achievable target,98.1,Pass,True,None
+1st Year,84.2,83.9,85.0,61.8,89.7,73.3,70.6,80.2,Borderline,91.4,Pass,True,None
+4th Year,87.0,75.2,64.0,74.5,94.5,76.3,70.2,54.5,Achievable target,66.5,Pass,True,None
+2nd Year,73.0,85.2,75.5,97.0,90.9,75.0,71.9,53.2,Achievable target,61.4,Pass,True,None
+3rd Year,86.4,93.5,85.1,96.1,85.9,83.6,84.4,57.4,Achievable target,76.2,Pass,True,None
+1st Year,70.0,64.1,91.2,95.4,76.3,88.0,74.2,64.9,Achievable target,70.3,Pass,True,None
+2nd Year,87.4,92.6,88.8,92.2,82.2,81.4,89.6,70.6,Achievable target,76.4,Pass,True,None
+3rd Year,75.1,66.7,76.6,65.3,75.1,71.2,70.9,92.2,Cannot pass,51.2,Fail,True,None
+3rd Year,79.1,74.1,95.8,70.8,97.9,71.5,88.6,66.4,Achievable target,97.0,Pass,True,None
+2nd Year,61.7,94.8,74.1,99.9,71.0,83.8,77.0,73.5,Achievable target,98.6,Pass,True,None
+3rd Year,98.7,83.9,89.9,61.8,70.1,89.9,88.8,64.9,Achievable target,75.5,Pass,True,None
+4th Year,85.7,75.5,79.6,85.0,83.6,73.8,70.6,51.2,Achievable target,62.0,Pass,True,None
+1st Year,81.9,63.4,68.4,89.7,89.0,81.5,77.9,55.1,Achievable target,95.8,Pass,True,None
+1st Year,78.5,63.9,60.6,60.5,70.2,61.9,68.9,91.6,Cannot pass,86.0,Fail,True,None
+1st Year,79.3,77.7,79.0,82.7,89.8,74.4,70.8,78.5,Borderline,61.6,Fail,True,None
+1st Year,85.5,84.7,70.9,84.9,67.5,73.6,75.8,50.5,Achievable target,53.0,Pass,True,None
+1st Year,93.3,96.1,91.0,69.2,92.1,88.2,84.9,55.3,Achievable target,63.8,Pass,True,None
+3rd Year,67.5,90.8,87.9,68.4,78.0,85.8,76.3,63.4,Achievable target,77.1,Pass,True,None
+2nd Year,62.8,73.3,75.8,61.1,61.8,71.4,66.8,97.9,Cannot pass,98.2,Pass,False,Underperformance
+3rd Year,89.7,68.1,94.8,94.4,77.7,89.3,71.1,55.4,Achievable target,83.7,Pass,True,None
+3rd Year,72.3,78.2,64.2,60.1,64.6,71.6,68.8,92.2,Cannot pass,99.5,Pass,False,Underperformance
+2nd Year,60.5,64.1,78.8,71.4,74.6,60.1,70.0,95.3,Cannot pass,87.6,Fail,True,None
+2nd Year,64.9,68.4,69.9,70.7,70.6,69.6,67.8,98.2,Cannot pass,68.5,Fail,True,None
+3rd Year,71.8,80.2,77.2,91.7,64.6,77.6,81.9,65.7,Achievable target,95.8,Pass,True,None
+1st Year,64.9,65.6,82.3,71.2,77.3,76.0,77.9,64.7,Achievable target,98.5,Pass,True,None
+1st Year,64.4,89.3,79.1,86.5,71.5,66.0,69.8,88.7,Borderline,53.0,Fail,True,None
+2nd Year,89.0,72.5,88.9,69.8,67.1,74.7,71.6,56.0,Achievable target,68.6,Pass,True,None
+1st Year,64.8,78.0,94.1,77.7,61.4,89.8,87.6,54.2,Achievable target,84.4,Pass,True,None
+3rd Year,86.9,86.9,83.4,92.9,97.6,80.7,79.1,52.6,Achievable target,63.7,Pass,True,None
+2nd Year,98.6,70.8,92.3,81.5,79.3,78.7,84.7,60.5,Achievable target,89.4,Pass,True,None
+4th Year,68.8,72.3,71.9,73.9,74.6,66.6,69.0,94.8,Cannot pass,96.1,Pass,False,Underperformance
+1st Year,72.2,79.7,63.9,95.5,65.4,72.8,88.9,60.9,Achievable target,87.1,Pass,True,None
+3rd Year,81.4,69.5,77.7,60.3,98.4,88.1,83.7,72.3,Achievable target,97.7,Pass,True,None
+3rd Year,66.6,65.6,88.7,88.9,64.3,84.0,70.9,64.7,Achievable target,71.3,Pass,True,None
+3rd Year,76.1,69.0,89.7,63.7,93.8,71.0,89.9,52.3,Achievable target,68.4,Pass,True,None
+4th Year,79.0,86.0,90.2,71.5,71.4,83.1,87.6,51.4,Achievable target,88.8,Pass,True,None
+3rd Year,88.0,85.0,71.1,69.2,81.8,68.0,68.4,86.6,Borderline,61.5,Fail,True,None
+3rd Year,75.9,63.1,69.0,78.3,77.1,71.5,69.2,77.2,Borderline,54.2,Fail,True,None
+3rd Year,76.5,77.3,78.6,79.9,72.6,67.5,71.7,95.0,Cannot pass,97.4,Pass,False,Underperformance
+4th Year,92.7,84.5,85.7,61.1,97.2,86.9,89.5,69.9,Achievable target,78.0,Pass,True,None
+3rd Year,81.8,80.3,85.9,71.8,95.8,73.1,89.4,73.3,Achievable target,93.4,Pass,True,None
+4th Year,60.8,86.0,85.6,66.3,61.5,66.6,77.3,81.1,Borderline,84.9,Pass,True,None
+4th Year,75.1,75.6,82.9,92.3,64.0,81.8,89.7,66.2,Achievable target,77.6,Pass,True,None
+3rd Year,73.8,85.9,61.1,72.0,84.2,73.4,70.7,85.4,Borderline,65.2,Fail,False,Ambiguity
+3rd Year,61.4,60.6,74.7,64.6,73.3,67.0,70.0,95.0,Cannot pass,80.5,Fail,True,None
+4th Year,84.5,90.5,70.6,72.5,95.7,75.7,87.5,57.6,Achievable target,99.8,Pass,True,None
+4th Year,71.0,99.1,60.7,92.5,87.0,70.2,80.6,69.3,Achievable target,97.2,Pass,True,None
+3rd Year,61.2,64.6,71.8,64.5,74.9,62.3,65.2,98.9,Cannot pass,88.7,Fail,True,None
+1st Year,75.6,95.7,93.4,81.5,89.4,88.9,76.0,69.2,Achievable target,96.9,Pass,True,None
+2nd Year,75.5,76.2,70.7,77.2,73.6,60.3,60.7,97.4,Cannot pass,76.1,Fail,True,None
+3rd Year,74.6,76.0,82.8,67.8,82.1,84.6,85.3,51.8,Achievable target,76.1,Pass,True,None
+4th Year,94.2,75.9,60.4,64.6,96.7,77.6,84.9,57.9,Achievable target,89.4,Pass,True,None
+4th Year,61.1,62.8,79.2,74.1,67.5,62.9,69.9,90.4,Cannot pass,88.9,Fail,True,None
+4th Year,78.3,64.7,88.7,89.4,79.6,75.2,76.1,86.0,Borderline,96.9,Pass,True,None
+1st Year,79.3,63.5,79.4,70.7,79.6,69.9,62.6,97.8,Cannot pass,87.2,Fail,True,None
+4th Year,74.9,89.3,60.7,70.4,83.3,89.5,86.4,53.5,Achievable target,74.9,Pass,True,None
+2nd Year,70.2,72.3,73.8,88.2,89.4,77.4,81.1,70.5,Achievable target,89.9,Pass,True,None
+1st Year,69.8,76.2,68.5,70.0,62.0,77.5,76.4,76.1,Borderline,52.4,Fail,True,None
+1st Year,71.2,61.8,69.3,93.8,76.5,89.5,72.8,71.5,Achievable target,84.6,Pass,True,None
+2nd Year,76.6,62.7,65.7,84.9,61.9,65.5,72.9,87.6,Borderline,94.1,Pass,True,None
+4th Year,94.8,88.1,90.1,90.4,72.8,84.7,85.0,71.6,Achievable target,85.9,Pass,True,None
+2nd Year,62.7,63.6,71.4,93.2,96.6,80.4,84.7,58.4,Achievable target,98.5,Pass,True,None
+1st Year,84.7,64.6,85.6,75.0,76.0,69.5,69.2,77.4,Borderline,60.6,Fail,True,None
+4th Year,85.5,97.7,72.9,85.4,94.9,83.2,70.1,73.3,Achievable target,67.1,Fail,False,Overperformance
+3rd Year,66.6,74.9,79.9,78.6,63.3,65.7,62.5,97.2,Cannot pass,98.5,Pass,False,Underperformance
+3rd Year,61.8,67.1,67.3,75.4,70.5,63.1,65.3,98.3,Cannot pass,99.5,Pass,False,Underperformance
+3rd Year,60.3,65.5,72.9,72.8,68.0,71.0,66.0,100.0,Cannot pass,100.0,Pass,False,Underperformance
+4th Year,95.7,61.6,67.2,66.8,79.7,83.4,72.6,58.1,Achievable target,77.7,Pass,True,None
+2nd Year,88.7,60.6,73.5,71.8,87.0,84.6,83.0,54.6,Achievable target,82.3,Pass,True,None
+4th Year,73.0,66.4,74.2,70.3,77.2,66.5,63.8,99.9,Cannot pass,99.9,Pass,False,Underperformance
+4th Year,85.7,75.2,81.0,87.9,76.3,70.9,76.9,57.2,Achievable target,65.1,Pass,True,None
+1st Year,62.1,60.5,70.1,67.8,78.5,66.2,63.0,93.1,Cannot pass,70.8,Fail,True,None
+3rd Year,69.7,83.6,81.0,75.8,72.4,71.8,86.9,58.1,Achievable target,72.1,Pass,True,None
+3rd Year,98.4,93.3,92.9,80.8,69.5,74.9,79.5,51.7,Achievable target,80.7,Pass,True,None
+3rd Year,79.5,81.6,84.7,69.4,87.4,82.5,87.7,56.9,Achievable target,66.7,Pass,True,None
+1st Year,79.6,86.8,80.4,60.9,82.9,72.4,71.7,63.7,Achievable target,53.7,Fail,False,Overperformance
+3rd Year,74.3,72.2,82.1,67.0,84.3,87.6,79.3,70.2,Achievable target,95.8,Pass,True,None
+1st Year,62.5,74.0,71.0,62.3,62.4,64.6,64.5,96.2,Cannot pass,91.7,Fail,True,None
+3rd Year,83.6,88.5,68.1,78.2,70.0,79.0,73.6,66.6,Achievable target,96.9,Pass,True,None
+2nd Year,71.2,92.3,78.9,74.3,83.4,70.6,86.2,55.6,Achievable target,62.7,Pass,True,None
+2nd Year,67.6,81.3,87.8,72.7,77.2,87.7,72.6,65.3,Achievable target,97.3,Pass,True,None
+2nd Year,96.9,79.2,79.0,61.4,65.4,73.9,86.7,53.7,Achievable target,75.0,Pass,True,None
+4th Year,98.1,80.6,87.3,97.7,77.7,88.4,88.0,68.5,Achievable target,91.1,Pass,True,None
+4th Year,91.4,69.4,69.6,98.6,91.4,82.2,85.0,71.7,Achievable target,77.2,Pass,True,None
+1st Year,70.9,68.7,88.3,64.7,79.0,67.9,69.8,81.7,Borderline,89.7,Pass,True,None
+4th Year,67.4,85.6,77.3,61.2,84.6,74.6,78.1,54.7,Achievable target,81.5,Pass,True,None
+2nd Year,78.8,74.9,74.7,66.3,63.0,63.9,71.8,94.6,Cannot pass,56.6,Fail,True,None
+4th Year,69.9,83.1,86.5,66.5,64.7,88.9,72.9,52.2,Achievable target,51.5,Fail,False,Overperformance
+1st Year,64.8,83.3,82.0,72.0,72.3,72.4,67.3,85.5,Borderline,64.8,Fail,True,None
+4th Year,63.7,73.1,64.4,63.9,76.8,67.6,69.3,97.3,Cannot pass,88.1,Fail,True,None
+2nd Year,98.8,90.8,60.3,93.4,78.9,72.5,74.0,56.9,Achievable target,64.3,Pass,True,None
+1st Year,72.4,80.3,65.4,94.1,95.2,80.3,73.2,50.7,Achievable target,60.2,Pass,True,None
+2nd Year,69.7,65.1,83.7,65.4,80.5,82.9,78.2,71.4,Achievable target,75.6,Pass,True,None
+4th Year,67.2,72.8,71.1,68.2,71.6,60.1,60.4,90.9,Cannot pass,86.6,Fail,True,None
+4th Year,85.9,96.9,93.9,63.7,89.0,74.9,74.1,54.6,Achievable target,66.8,Pass,True,None
+1st Year,66.0,63.6,80.5,88.9,64.1,86.7,83.4,56.1,Achievable target,66.2,Pass,True,None
+2nd Year,62.2,66.2,62.9,72.6,61.7,65.4,65.7,95.7,Cannot pass,96.6,Pass,False,Underperformance
+1st Year,68.8,67.4,62.7,80.2,76.6,85.7,76.4,62.9,Achievable target,66.3,Pass,True,None
+2nd Year,67.3,88.5,71.9,63.9,65.7,71.2,89.2,71.4,Achievable target,78.8,Pass,True,None
+1st Year,62.1,77.5,93.5,73.6,90.8,80.0,89.5,72.9,Achievable target,83.7,Pass,True,None
+4th Year,92.9,72.1,83.4,79.8,89.6,75.8,79.8,55.4,Achievable target,90.7,Pass,True,None
+1st Year,92.3,73.2,83.4,75.6,89.9,74.8,72.4,55.7,Achievable target,74.4,Pass,True,None
+1st Year,99.6,81.7,90.3,90.4,77.7,75.4,80.9,55.2,Achievable target,74.2,Pass,True,None
+2nd Year,76.6,74.1,75.3,61.9,62.6,71.0,68.0,97.7,Cannot pass,98.0,Pass,False,Underperformance
+2nd Year,67.6,84.0,89.9,65.5,62.8,79.1,72.9,68.5,Achievable target,95.4,Pass,True,None
+4th Year,64.8,67.7,64.8,81.4,90.5,75.4,75.0,54.4,Achievable target,64.3,Pass,True,None
+2nd Year,78.4,75.4,64.0,66.6,66.3,68.8,71.0,100.0,Cannot pass,74.3,Fail,True,None
+2nd Year,82.0,79.6,62.2,60.2,63.5,71.9,77.9,69.8,Achievable target,88.7,Pass,True,None
+3rd Year,65.5,68.8,77.7,65.8,78.4,63.4,61.4,99.9,Cannot pass,87.5,Fail,True,None
+3rd Year,62.5,91.4,68.2,81.6,74.3,83.7,72.9,60.9,Achievable target,85.0,Pass,True,None
+1st Year,69.3,77.7,61.9,74.4,77.7,63.5,61.8,98.1,Cannot pass,81.4,Fail,True,None
+3rd Year,60.5,64.3,75.2,62.1,62.3,87.5,78.4,56.4,Achievable target,90.6,Pass,True,None
+3rd Year,64.7,65.2,88.1,89.0,82.3,69.8,70.4,86.3,Borderline,88.8,Pass,True,None
+4th Year,72.4,68.1,88.7,78.4,68.1,73.2,81.5,73.8,Achievable target,85.5,Pass,True,None
+3rd Year,85.8,67.5,68.5,93.0,89.6,75.4,78.3,68.2,Achievable target,95.8,Pass,True,None
+2nd Year,89.0,64.5,92.4,76.8,90.6,75.5,88.7,71.2,Achievable target,71.7,Pass,True,None
+4th Year,96.0,91.3,79.0,88.8,84.2,81.5,81.3,68.3,Achievable target,84.3,Pass,True,None
+1st Year,88.1,91.7,65.0,69.3,99.3,71.2,82.9,68.9,Achievable target,92.4,Pass,True,None
+4th Year,68.0,60.6,70.2,78.4,77.7,69.3,71.4,99.7,Cannot pass,100.0,Pass,False,Underperformance
+1st Year,71.3,96.5,92.9,75.0,92.1,77.7,80.8,60.7,Achievable target,62.4,Pass,True,None
+3rd Year,65.2,75.7,65.2,69.9,64.5,71.4,65.3,91.8,Cannot pass,86.3,Fail,True,None
+2nd Year,89.3,85.1,89.1,95.7,94.0,87.8,73.9,65.2,Achievable target,93.5,Pass,True,None
+3rd Year,86.2,78.2,73.6,93.0,92.7,87.8,81.2,70.3,Achievable target,80.2,Pass,True,None
+3rd Year,80.3,99.5,82.2,75.6,78.8,71.4,80.5,65.3,Achievable target,99.3,Pass,True,None
+4th Year,73.2,82.8,79.6,78.5,61.6,82.1,74.9,52.2,Achievable target,83.1,Pass,True,None
+3rd Year,72.5,82.9,72.1,89.1,70.6,70.5,70.1,86.3,Borderline,99.7,Pass,True,None
+1st Year,85.4,62.6,87.7,78.3,89.8,71.9,75.4,85.5,Borderline,96.6,Pass,True,None
+3rd Year,60.5,76.8,79.6,77.3,74.5,71.4,83.0,71.4,Achievable target,84.5,Pass,True,None
+3rd Year,98.8,68.1,85.4,99.0,63.0,73.3,76.0,70.4,Achievable target,76.7,Pass,True,None
+2nd Year,94.8,62.8,67.7,85.4,65.7,78.8,70.1,54.9,Achievable target,59.0,Pass,True,None
+4th Year,98.9,87.1,85.9,88.5,97.2,71.9,80.3,62.7,Achievable target,86.8,Pass,True,None
+1st Year,66.1,66.4,87.2,83.9,75.4,85.1,87.2,64.3,Achievable target,81.0,Pass,True,None
+3rd Year,97.4,60.4,84.8,82.5,64.0,79.1,88.6,62.9,Achievable target,81.7,Pass,True,None
+3rd Year,79.7,74.4,67.3,60.3,73.3,70.8,62.0,94.2,Cannot pass,98.1,Pass,False,Underperformance
+1st Year,98.9,75.1,82.1,93.2,84.7,84.6,80.7,70.7,Achievable target,87.6,Pass,True,None
+3rd Year,98.5,70.9,75.4,94.0,92.0,73.7,78.0,65.6,Achievable target,93.0,Pass,True,None
+4th Year,85.7,89.2,98.6,75.0,95.7,73.6,72.7,60.8,Achievable target,96.8,Pass,True,None
+2nd Year,62.8,62.3,80.7,66.9,94.4,74.7,83.2,59.9,Achievable target,66.2,Pass,True,None
+2nd Year,81.2,67.8,91.0,74.0,98.3,71.5,82.7,65.5,Achievable target,70.6,Pass,True,None
+3rd Year,79.2,60.4,82.4,84.6,83.6,71.5,72.4,87.6,Borderline,77.8,Fail,True,None
+3rd Year,74.1,63.0,78.5,61.5,74.7,85.9,81.8,56.9,Achievable target,84.7,Pass,True,None
+2nd Year,68.0,61.0,69.8,79.0,94.0,83.5,74.5,51.7,Achievable target,71.7,Pass,True,None
+4th Year,68.4,66.9,65.6,82.2,93.7,78.1,78.7,58.6,Achievable target,75.9,Pass,True,None
+2nd Year,62.0,75.9,71.7,75.3,66.6,63.4,63.2,97.7,Cannot pass,99.1,Pass,False,Underperformance
+2nd Year,73.1,80.8,64.6,68.2,83.3,81.5,73.0,52.2,Achievable target,76.6,Pass,True,None
+4th Year,74.1,74.8,60.2,67.5,64.5,65.0,69.8,92.9,Cannot pass,87.6,Fail,True,None
+3rd Year,71.2,81.1,96.8,88.0,77.8,88.2,70.2,54.9,Achievable target,79.5,Pass,True,None
+3rd Year,83.9,93.7,86.9,71.4,60.3,71.0,75.6,52.6,Achievable target,58.9,Pass,True,None
