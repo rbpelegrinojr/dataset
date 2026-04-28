@@ -103,8 +103,9 @@ def load_subject_data(path: str) -> pd.DataFrame:
     # Use midterm_grade as the "current class standing" metric
     df["class_standing_score"] = df["midterm_grade"]
 
-    # Exam score column
-    df["exam_avg"] = df["actual_exam_score"]
+    # Exam score proxy: average of prelim and midterm grades
+    # (actual_exam_score is post-exam data and must NOT be used as a feature)
+    df["exam_avg"] = df[["prelim_grade", "midterm_grade"]].mean(axis=1)
 
     # Attendance: not in this file – impute as 75 (neutral default)
     df["attendance_rate"] = 75.0
@@ -230,7 +231,8 @@ def train_model(X_train, y_train):
 # 3. EVALUATION
 # ===========================================================================
 
-def evaluate_model(clf, X_test, y_test, feature_names, model_type):
+def evaluate_model(clf, X_test, y_test, feature_names, model_type,
+                   X_train=None, y_train=None):
     """Print metrics and plot confusion matrix + feature importances."""
     y_pred = clf.predict(X_test)
 
@@ -285,9 +287,11 @@ def evaluate_model(clf, X_test, y_test, feature_names, model_type):
         plt.close()
         print("  Feature importances saved → feature_importances.png")
 
-    # Cross-validation
+    # Cross-validation on training data (not the held-out test set)
     if model_type == "random_forest":
-        cv_scores = cross_val_score(clf, X_test, y_test, cv=min(5, len(y_test)),
+        cv_X = X_train if X_train is not None else X_test
+        cv_y = y_train if y_train is not None else y_test
+        cv_scores = cross_val_score(clf, cv_X, cv_y, cv=min(5, len(cv_y)),
                                     scoring="accuracy")
         print(f"\n  Cross-validation accuracy: "
               f"{cv_scores.mean()*100:.2f}% ± {cv_scores.std()*100:.2f}%")
@@ -535,7 +539,8 @@ def main():
     # 4. Evaluate
     # ------------------------------------------------------------------
     print("\n[4] Evaluating …")
-    metrics = evaluate_model(clf, X_test, y_test, feature_names, model_type)
+    metrics = evaluate_model(clf, X_test, y_test, feature_names, model_type,
+                             X_train=X_train, y_train=y_train)
 
     # ------------------------------------------------------------------
     # 5. Pre-exam prediction demo
