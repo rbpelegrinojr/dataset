@@ -4,11 +4,10 @@ EDUPREDICT – Training Code
 Trains a Random Forest classifier (with a rule-based fallback) to classify
 students into High / Medium / Low academic-risk categories.
 
-Input files (repository root)
--------------------------------
-  student_performance.csv  – per-student attendance, subject scores, etc.
-  dataset.csv              – per-subject task scores, prelim/midterm grades,
-                             minimum required exam score, actual outcomes.
+Input file
+----------
+  dataset.csv  – per-subject task scores, prelim/midterm grades,
+                 minimum required exam score, actual outcomes.
 
 Modules
 -------
@@ -20,7 +19,6 @@ Modules
   6. Reporting module
 """
 
-import os
 import warnings
 import numpy as np
 import pandas as pd
@@ -45,9 +43,7 @@ warnings.filterwarnings("ignore")
 # ---------------------------------------------------------------------------
 # 0. Paths
 # ---------------------------------------------------------------------------
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-STUDENT_CSV = os.path.join(BASE_DIR, "student_performance.csv")
-DATASET_CSV = os.path.join(BASE_DIR, "dataset.csv")
+DATASET_CSV = "/content/sample_data/dataset.csv"
 
 # Risk thresholds (from EDUPREDICT specification)
 THRESH_ATTENDANCE_HIGH   = 60.0   # attendance ≤ this → High Risk flag
@@ -66,24 +62,6 @@ RANDOM_STATE = 42
 # ===========================================================================
 # 1. DATA LOADING & FEATURE ENGINEERING
 # ===========================================================================
-
-def load_student_performance(path: str) -> pd.DataFrame:
-    """Load student_performance.csv and engineer EDUPREDICT features."""
-    df = pd.read_csv(path)
-
-    # Derived features
-    df["task_avg"] = df["assignments_completed"]          # proxy for task perf
-    df["exam_avg"] = df[["math_score", "science_score", "english_score"]].mean(axis=1)
-    df["attendance_rate"] = df["attendance_rate"]         # already a percentage
-
-    # Grade-level numeric encoding (proxy for "class standing" year)
-    df["year_level"] = df["grade_level"]
-
-    # Grade trend: unavailable in this file – set to 0 (no prior term data)
-    df["grade_trend"] = 0.0
-
-    return df
-
 
 def load_subject_data(path: str) -> pd.DataFrame:
     """Load dataset.csv (task scores, prelim/midterm grades, exam data)."""
@@ -264,7 +242,7 @@ def evaluate_model(clf, X_test, y_test, feature_names, model_type,
     plt.xlabel("Predicted")
     plt.ylabel("Actual")
     plt.tight_layout()
-    plt.savefig(os.path.join(BASE_DIR, "confusion_matrix.png"), dpi=150)
+    plt.savefig("confusion_matrix.png", dpi=150)
     plt.close()
     print("  Confusion matrix saved → confusion_matrix.png")
 
@@ -283,7 +261,7 @@ def evaluate_model(clf, X_test, y_test, feature_names, model_type,
         plt.xticks(rotation=30, ha="right")
         plt.ylabel("Importance")
         plt.tight_layout()
-        plt.savefig(os.path.join(BASE_DIR, "feature_importances.png"), dpi=150)
+        plt.savefig("feature_importances.png", dpi=150)
         plt.close()
         print("  Feature importances saved → feature_importances.png")
 
@@ -502,34 +480,25 @@ def main():
     # 1. Load data
     # ------------------------------------------------------------------
     print("\n[1] Loading data …")
-    sp_df   = load_student_performance(STUDENT_CSV)
-    subj_df = load_subject_data(DATASET_CSV)
+    df = load_subject_data(DATASET_CSV)
+    df["risk_label"] = df.apply(assign_risk_label, axis=1)
 
-    # Build EDUPREDICT features for student_performance data
-    sp_df["class_standing_score"] = sp_df["average_score"]
-    sp_df["exam_avg"]             = sp_df[["math_score",
-                                           "science_score",
-                                           "english_score"]].mean(axis=1)
-    sp_df["task_avg"]             = sp_df["assignments_completed"]
-    sp_df["risk_label"]           = sp_df.apply(assign_risk_label, axis=1)
-
-    print(f"  student_performance.csv : {len(sp_df)} rows")
-    print(f"  dataset.csv             : {len(subj_df)} rows")
-    print(f"\n  Risk distribution (student_performance.csv):")
-    print(sp_df["risk_label"].value_counts().to_string())
+    print(f"  dataset.csv : {len(df)} rows")
+    print(f"\n  Risk distribution:")
+    print(df["risk_label"].value_counts().to_string())
 
     # ------------------------------------------------------------------
     # 2. Build feature matrices
     # ------------------------------------------------------------------
     print("\n[2] Engineering features …")
-    X_sp, y_sp, feature_names, imputer_sp = build_feature_matrix(sp_df)
+    X, y, feature_names, imputer = build_feature_matrix(df)
 
     # ------------------------------------------------------------------
-    # 3. Train / evaluate on student_performance data
+    # 3. Train
     # ------------------------------------------------------------------
     print("\n[3] Training model …")
     X_train, X_test, y_train, y_test = train_test_split(
-        X_sp, y_sp, test_size=0.20, random_state=RANDOM_STATE, stratify=y_sp)
+        X, y, test_size=0.20, random_state=RANDOM_STATE, stratify=y)
 
     clf, model_type = train_model(X_train, y_train)
     print(f"  Model : {model_type}")
@@ -575,7 +544,7 @@ def main():
         {"attendance_rate": 75.0, "task_avg": 80.0}, # both changes
     ]
     for scenario in scenarios:
-        result = whatif_simulator(clf, imputer_sp, feature_names,
+        result = whatif_simulator(clf, imputer, feature_names,
                                   sample_student, scenario)
         change_desc = ", ".join(f"{k}→{v}" for k, v in scenario.items())
         print(f"  [{change_desc}]")
@@ -588,16 +557,12 @@ def main():
     print("\n[7] Generating intervention report …")
     print("-" * 55)
 
-    # Use a small slice of student_performance data for demonstration
-    sample_df = sp_df.head(5).copy()
-    sample_df["subject"] = ["Mathematics", "Science", "English",
-                             "Filipino", "Physics"]
+    sample_df = df.head(5).copy()
 
-    report_df = build_report(sample_df, clf, imputer_sp, feature_names)
+    report_df = build_report(sample_df, clf, imputer, feature_names)
     print(report_df.to_string(index=False))
 
-    report_path = os.path.join(BASE_DIR, "edupredict_report.csv")
-    report_df.to_csv(report_path, index=False)
+    report_df.to_csv("edupredict_report.csv", index=False)
     print(f"\n  Full report saved → edupredict_report.csv")
 
     # ------------------------------------------------------------------
