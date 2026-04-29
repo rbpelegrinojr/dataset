@@ -1,6 +1,6 @@
 Student,Subject,Risk Level,Max Grade %,Exam Needed,Recommendation
-Student 1,N/A,High,81.2%,42/50,Attend review sessions
-Student 2,N/A,High,76.9%,48/50,Attend review sessions
-Student 3,N/A,Low,90.0%,31/50,Maintain current performance
+Student 1,N/A,High,81.2%,42/50,Improve attendance immediately
+Student 2,N/A,High,76.9%,48/50,Improve attendance immediately
+Student 3,N/A,High,90.0%,31/50,Improve attendance immediately
 Student 4,N/A,High,84.4%,38/50,Attend review sessions
 Student 5,N/A,Low,92.0%,29/50,Maintain current performance
